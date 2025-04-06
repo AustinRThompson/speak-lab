@@ -71,7 +71,7 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    const listingTargetEl = window.document.querySelector('#listing-sample-posts .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
@@ -84,7 +84,7 @@ ul.task-list li input[type="checkbox"] {
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+    window['quarto-listings']['listing-sample-posts'] = new List('listing-sample-posts', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -181,9 +181,9 @@ window.Quarto = {
    
   <ul>
   <li><a href="#our-research" id="toc-our-research" class="nav-link active" data-scroll-target="#our-research">Our Research</a></li>
+  <li><a href="#blog" id="toc-blog" class="nav-link" data-scroll-target="#blog">Blog</a></li>
   <li><a href="#contact-us" id="toc-contact-us" class="nav-link" data-scroll-target="#contact-us">Contact Us</a></li>
   <li><a href="#visit-us" id="toc-visit-us" class="nav-link" data-scroll-target="#visit-us">Visit Us</a></li>
-  <li><a href="#blog" id="toc-blog" class="nav-link" data-scroll-target="#blog">Blog</a></li>
   </ul>
 </nav>
     </div>
@@ -214,71 +214,74 @@ window.Quarto = {
 <section id="our-research" class="level2">
 <h2 class="anchored" data-anchor-id="our-research">Our Research</h2>
 <div class="columns">
-<div class="column" style="width:30%;">
+<div class="column center" style="width:5%;">
 <section id="section" class="level3">
 <h3 class="anchored" data-anchor-id="section">👅</h3>
 </section>
+</div><div class="column" style="width:95%;">
 <section id="instrumental-analysis-of-speech" class="level3">
 <h3 class="anchored" data-anchor-id="instrumental-analysis-of-speech">Instrumental Analysis of Speech</h3>
 <p>We’re studying what makes speech hard to understand for people with speech difficulties like dysarthria. Using instruments like ultrasound and electromagnetic articulography, we’re checking how the tongue, lips, and jaw move when individuals talk.</p>
 </section>
-</div><div class="column" style="width:5%;">
-<!-- empty column to create gap -->
-</div><div class="column" style="width:30%;">
+</div>
+</div>
+<div class="columns">
+<div class="column center" style="width:5%;">
 <section id="section-1" class="level3">
 <h3 class="anchored" data-anchor-id="section-1">💬</h3>
 </section>
+</div><div class="column" style="width:95%;">
 <section id="language-and-dialects-impact-on-speech" class="level3">
 <h3 class="anchored" data-anchor-id="language-and-dialects-impact-on-speech">Language and Dialect’s Impact on Speech</h3>
 <p>We’re investigating how different languages and dialects affect speech in people with and without speech problems like dysarthria. Researchers often believe that dysarthria is language-universal, but our research shows it’s not that simple – where you’re from and how you speak can interact with dysarthria.</p>
 </section>
-</div><div class="column" style="width:5%;">
-<!-- empty column to create gap -->
-</div><div class="column" style="width:30%;">
+</div>
+</div>
+<div class="columns">
+<div class="column center" style="width:5%;">
 <section id="section-2" class="level3">
 <h3 class="anchored" data-anchor-id="section-2">📐</h3>
 </section>
+</div><div class="column" style="width:95%;">
 <section id="meta-science-and-open-science" class="level3">
 <h3 class="anchored" data-anchor-id="meta-science-and-open-science">Meta-Science and Open Science</h3>
-<p>We explore the reliability of our measurements and whether they truly capture what we intend to measure. We’re also interested in the concept of open science and how it can enhance research practices. With these aims, we hope to strengthen the integrity and impact of our research findings.<br>
-</p>
+<p>We explore the reliability of our measurements and whether they truly capture what we intend to measure. We’re also interested in the concept of open science and how it can enhance research practices. With these aims, we hope to strengthen the integrity and impact of our research findings.</p>
 </section>
 </div>
 </div>
-</section>
-<section id="contact-us" class="level2">
-<h2 class="anchored" data-anchor-id="contact-us">Contact Us</h2>
-<p><strong>Email us</strong> → <a href="mailto:thespeaklab@gmail.com">thespeaklab@gmail.com</a></p>
-<p>Or visit our <a href="https://speak-lab.com/contact">contact page</a>, or find us on <a href="https://speak-lab.com/contact/social-media">social media</a>!<br>
-<br>
-</p>
-</section>
-<section id="visit-us" class="level2">
-<h2 class="anchored" data-anchor-id="visit-us">Visit Us</h2>
-<div class="line-block">Melcher Life Sciences<br>
-3871 Holman St.&nbsp;Room M245G<br>
-Houston, TX 77204-6018</div>
-<p><br>
-</p>
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d433.10049643154343!2d-95.3489373888708!3d29.725437070333367!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f50.1!3m3!1m2!1s0x8640bf000500dc15%3A0x181db38daa15d0cb!2sMelcher%20Life%20Sciences%20Building!5e0!3m2!1sen!2sus!4v1743785330194!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </section>
 <section id="blog" class="level2">
 <h2 class="anchored" data-anchor-id="blog">Blog</h2>
-<div data-collections="Posts">
+<div id="listing-sample-posts" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="conferences" data-listing-date-sort="1713416400000" data-listing-file-modified-sort="1743886722534" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="250">
+<a href="./Posts/2024_12_08_ASHA Convention 2024/2024_12_08_ASHA Convention 2024.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="Posts/2024_12_08_ASHA Convention 2024/IMG_2938.jpg" alt="Space needle." style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+SPEAK Lab attends the ASHA 2024 Convention in Seattle, WA
+</h5>
+<div class="card-text listing-description">
+<br>
 
 </div>
-
-
-
-</section>
-
-<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-date-sort="1713416400000" data-listing-file-modified-sort="1743818274849" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="268">
-<a href="./Posts/Lessons for Success/Lessons for Success.html" class="quarto-grid-link">
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Austin Thompson
+</div>
+<div class="listing-date">
+Apr 18, 2024
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-listing-date-sort="1713416400000" data-listing-file-modified-sort="1743885629944" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="240">
+<a href="./Posts/2024_04_18_Lessons for Success/2024_04_18_Lessons for Success.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top"><img src="Posts/Lessons for Success/IMG_1824.png" style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<p class="card-img-top"><img src="Posts/2024_04_18_Lessons for Success/IMG_1824.png" alt="Stoked about the first day of the conference!" style="height: 150px;"  class="thumbnail-image card-img"/></p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 Austin Thompson attends the ASHA 2024 Lessons for Success conference
@@ -299,10 +302,10 @@ Apr 18, 2024
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="1" data-categories="New Publication" data-listing-date-sort="1676527200000" data-listing-file-modified-sort="1743818665175" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="431">
-<a href="./Posts/Vowel Acoustics as Predictors of Intelligibility/Vowel Acoustics as Predictors of Intelligibility.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="2" data-categories="New Publication" data-listing-date-sort="1676527200000" data-listing-file-modified-sort="1743885777762" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="431">
+<a href="./Posts/2023_02_16_Vowel Acoustics as Predictors of Intelligibility/2023_02_16_Vowel Acoustics as Predictors of Intelligibility.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top"><img src="Posts/Vowel Acoustics as Predictors of Intelligibility/Measures.png" style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<p class="card-img-top"><img src="Posts/2023_02_16_Vowel Acoustics as Predictors of Intelligibility/Measures.png" alt="Figure 1. Token-based (top row) and trajectory-based (bottom row) measures used in the current study. Although the token-based measures (top row) did not rely on the continuously sampled formant trajectories, they are plotted behind the token measures to demonstrate that all the target measures were measured from the same passage. VSA = vowel space area; VSAHull = vowel space hull area; VSD = vowel space density; F1 = first formant fequency; F2 = second formant frequency." style="height: 150px;"  class="thumbnail-image card-img"/></p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 New Publication: Vowel Acoustics as Predictors of Speech Intelligibility in Dysarthria
@@ -327,7 +330,30 @@ Feb 16, 2023
 <div class="listing-no-matching d-none">
 No matching items
 </div>
-</div></main> <!-- /main -->
+</div>
+</section>
+<section id="contact-us" class="level2">
+<h2 class="anchored" data-anchor-id="contact-us">Contact Us</h2>
+<p><strong>Email us</strong> → <a href="mailto:thespeaklab@gmail.com">thespeaklab@gmail.com</a></p>
+<p>Or visit our <a href="https://speak-lab.com/contact">contact page</a>, or find us on <a href="https://speak-lab.com/contact/social-media">social media</a>!<br>
+<br>
+</p>
+</section>
+<section id="visit-us" class="level2">
+<h2 class="anchored" data-anchor-id="visit-us">Visit Us</h2>
+<div class="line-block">Melcher Life Sciences<br>
+3871 Holman St.&nbsp;Room M245G<br>
+Houston, TX 77204-6018</div>
+<p><br>
+</p>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d433.10049643154343!2d-95.3489373888708!3d29.725437070333367!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f50.1!3m3!1m2!1s0x8640bf000500dc15%3A0x181db38daa15d0cb!2sMelcher%20Life%20Sciences%20Building!5e0!3m2!1sen!2sus!4v1743785330194!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+
+
+</section>
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

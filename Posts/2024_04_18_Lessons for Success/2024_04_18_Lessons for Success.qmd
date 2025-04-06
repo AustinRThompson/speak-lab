@@ -3,7 +3,7 @@ title: "Austin Thompson attends the ASHA 2024 Lessons for Success conference"
 date: "2024-04-18"
 author: Austin Thompson
 categories: 
-  
+lightbox: true
 draft: false
 ---
 

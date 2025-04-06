@@ -122,8 +122,8 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#highlights" id="toc-highlights" class="nav-link active" data-scroll-target="#highlights"><strong>Highlights</strong></a></li>
-  <li><a href="#challenges" id="toc-challenges" class="nav-link" data-scroll-target="#challenges"><strong>Challenges</strong></a></li>
+  <li><a href="#highlights" id="toc-highlights" class="nav-link active" data-scroll-target="#highlights">Highlights</a></li>
+  <li><a href="#challenges" id="toc-challenges" class="nav-link" data-scroll-target="#challenges">Challenges</a></li>
   </ul>
 </nav>
     </div>
@@ -170,7 +170,7 @@ ul.task-list li input[type="checkbox"] {
 <p>This week, my coauthors and I published a new study titled <a href="https://pubs.asha.org/doi/10.1044/2022_JSLHR-22-00287">“Vowel Acoustics as Predictors of Speech Intelligibility in Dysarthria”</a> in the Journal of Speech-Language and Hearing Research as a special issue of select papers from the 2022 Conference on Motor Speech. The purpose of this study was to determine if alternative vowel space area (VSA) measures (i.e., novel trajectory-based measures: vowel space hull area and vowel space density) predicted speech intelligibility to the same extent as two traditional vowel measures (i.e., token-based measures: VSA and corner dispersion) in speakers with dysarthria.</p>
 <p>I’ve been dreaming of doing this project ever since I read <a href="https://pubs.asha.org/doi/abs/10.1044/2019_JSLHR-S-MSC18-18-0189">Whitefield and Mehta’s (2019)</a> study examining various vowel space measures, including <strong>vowel space density</strong>, in speakers with Parkinson’s disease. I instantly fell in love with this measure and wanted to explore using it in my research, which led to the development of this project.</p>
 <section id="highlights" class="level3">
-<h3 class="anchored" data-anchor-id="highlights"><strong>Highlights</strong></h3>
+<h3 class="anchored" data-anchor-id="highlights">Highlights</h3>
 <p>My favorite part about this project was calculating the various vowel space measures (i.e., vowel space area, hull, and vowel space density) and visualizing them using ggplot2 in R. In particular, I thoroughly enjoyed making this plot shown below (making figures tends to be my favorite part of research).</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
@@ -180,7 +180,7 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </section>
 <section id="challenges" class="level3">
-<h3 class="anchored" data-anchor-id="challenges"><strong>Challenges</strong></h3>
+<h3 class="anchored" data-anchor-id="challenges">Challenges</h3>
 <p>The most challenging part of this project was cleaning the raw formant data. To calculate these measures, we want to obtain formant data from the vowel data alone (i.e., removing consonant frequency data and formant tracking errors). In the project, we ultimately used filtering methods that were reported in the previous literature. However, during this process, it became clear that this data cleaning process may have some flaws. For example, for some speakers, this data cleaning process erroneously removed data that appeared to reflect true vowel formant data. In other cases, it retained outlying data that were caused by formant tracking errors or consonant/fricative data. I believe that there may be a better, more nuanced way to clean the data. I hope to tackle this issue in some of my future work.</p>
 <p>Thanks for reading. The study can be found <a href="https://pubs.asha.org/doi/10.1044/2022_JSLHR-22-00287">here</a>, the preprint can be found <a href="https://osf.io/ezr8n/">here</a>, and the analysis script for the project can be found <a href="https://osf.io/hr7aj/">here</a>. Any and all feedback is welcomed!</p>
 

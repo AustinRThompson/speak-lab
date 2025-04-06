@@ -4,9 +4,10 @@ date: "2023-02-16"
 author: Austin Thompson
 categories:
  - New Publication
-  
+lightbox: true
 draft: false
 ---
+
 \
 
 Hello, world!
@@ -15,13 +16,13 @@ This week, my coauthors and I published a new study titled ["Vowel Acoustics as 
 
 I've been dreaming of doing this project ever since I read [Whitefield and Mehta's (2019)](https://pubs.asha.org/doi/abs/10.1044/2019_JSLHR-S-MSC18-18-0189) study examining various vowel space measures, including **vowel space density**, in speakers with Parkinson's disease. I instantly fell in love with this measure and wanted to explore using it in my research, which led to the development of this project.
 
-### **Highlights**
+### Highlights
 
 My favorite part about this project was calculating the various vowel space measures (i.e., vowel space area, hull, and vowel space density) and visualizing them using ggplot2 in R. In particular, I thoroughly enjoyed making this plot shown below (making figures tends to be my favorite part of research).
 
-![Figure 1. Token-based (top row) and trajectory-based (bottom row) measures used in the current study. Although the token-based measures (top row) did not rely on the continuously sampled formant trajectories, they are plotted behind the token measures to demonstrate that all the target measures were measured from the same passage. VSA = vowel space area; VSAHull = vowel space hull area; VSD = vowel space density; F1 = first formant fequency; F2 = second formant frequency.](Measures.png)
+![Figure 1. Token-based (top row) and trajectory-based (bottom row) measures used in the current study. Although the token-based measures (top row) did not rely on the continuously sampled formant trajectories, they are plotted behind the token measures to demonstrate that all the target measures were measured from the same passage. VSA = vowel space area; VSAHull = vowel space hull area; VSD = vowel space density; F1 = first formant fequency; F2 = second formant frequency.](Measures.png){width="70%"}
 
-### **Challenges**
+### Challenges
 
 The most challenging part of this project was cleaning the raw formant data. To calculate these measures, we want to obtain formant data from the vowel data alone (i.e., removing consonant frequency data and formant tracking errors). In the project, we ultimately used filtering methods that were reported in the previous literature. However, during this process, it became clear that this data cleaning process may have some flaws. For example, for some speakers, this data cleaning process erroneously removed data that appeared to reflect true vowel formant data. In other cases, it retained outlying data that were caused by formant tracking errors or consonant/fricative data. I believe that there may be a better, more nuanced way to clean the data. I hope to tackle this issue in some of my future work.
 

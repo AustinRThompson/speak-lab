@@ -9,9 +9,12 @@ listing:
   filter-ui: true
 page-layout: article
 title-block-banner: false
+lightbox: true
 ---
 
 Here is what we've been up to lately.
+\
+\
 
 ::: {collections="publications"}
 :::

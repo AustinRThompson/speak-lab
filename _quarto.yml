@@ -25,6 +25,15 @@ website:
         href: https://github.com/
       - icon: instagram 
         href: https://www.instagram.com/speaklaboratory/
+        
+        
+# Define a collection named "Posts"
+collections:
+  Posts:
+    title: "Blog"
+    # The pattern must match the folder and file extension
+    pattern: "Posts/*.qmd"
+    sort: "date desc"
 
 format:
   html:

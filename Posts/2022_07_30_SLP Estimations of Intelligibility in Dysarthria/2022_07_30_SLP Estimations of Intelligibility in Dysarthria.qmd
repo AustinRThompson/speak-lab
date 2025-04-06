@@ -1,0 +1,31 @@
+---
+title: "New Publication: Speech-Language Pathologists' Estimations of Intelligibility in Dysarthria"
+date: "2022-07-30"
+author: Austin Thompson
+categories:
+ - New Publication
+lightbox: true
+draft: false
+---
+
+\
+
+Hello, world!
+
+Today, our study, "The Reliability and Validity of Speech-Language Pathologists' Estimations of Intelligibility in Dysarthria," was published in a special issue of Brain Sciences titled "Profiles of Dysarthria: Clinical Assessment and Treatment."
+
+This study examined the reliability and validity of a commonly used SLP practice for estimating speech intelligibility in dysarthria called percent estimations. Using this method, SLPs estimate the percent of speech understood following a conversation with their patient.
+
+This project was motivated by a study by [Gurevich and Scamihorn (2017)](https://pubs.asha.org/doi/abs/10.1044/2017_AJSLP-16-0112), which surveyed SLPs' practices for measuring intelligibility. They found that formal intelligibility assessments (e.g., Sentence Intelligibility Test \[SIT\]) are not often used in clinical practice. Instead, SLPs prefer to use informal intelligibility assessments, such as percent estimations. However, percent estimations have rarely been empirically examined in research settings. This study aimed to bridge the gap between clinical and research practices.
+
+### Highlights
+
+My favorite part of this project was comparing various methods of measuring speech intelligibility. Specifically, we examined SLPs' percent estimations related to their visual analog scale (VAS) intelligibility ratings. While both measures were elicited with the same prompt (i.e., "Please indicate how much you understand"), the two measures produced vastly different intelligibility levels in some cases. For example, in the figure below, for speakers AM1 and HDM10, the average VAS ratings underestimated the average percent estimations. This finding may suggest that these two measures are measuring different constructs. We hypothesize that VAS intelligibility ratings capture global speech deficits (i.e., deficits across prosody, phonation, and articulation speech subsystems), while percent estimations capture the articulation subsystem alone. Our future work will further explore this hypothesis!
+
+![Figure 4. SLPs’ Percent Estimates and VAS Ratings of Intelligibility as Predictors of Naïve Listeners’ Orthographic Transcriptions. OT = orthographic transcription; SLP = Speech-language pathologists, VAS = visual analog scale. The light gray line connects the data points for each of the 20 speakers. Two speakers, AM1 and HDM10, are highlighted within the figure and discussed in Section 4.2 of the discussion.](RQ3_ScatterPlot){width="70%"}
+
+### Challenges
+
+The most challenging part of this project was the design of the experiment protocol. We decided to compare SLPs' VAS ratings and percent estimations of intelligibility to naive listeners' orthographic transcriptions, as orthographic transcriptions from naive listeners are often considered the most objective measure of intelligibility. However, this required us to use different experimental protocols for the two listener groups. Because of this decision, we needed to aggregate the SLPs' intelligibility ratings and the naive listeners' transcriptions per speaker to compare the ratings across listener groups. This design prevented us from looking at individual responses using hierarchical linear modeling. However, we will do this in future work!
+
+Thanks for reading. The article can be accessed [here](https://www.mdpi.com/2076-3425/12/8/1011), and the cleaned data, analysis code, and supplemental materials can be accessed from [here](https://osf.io/sr9aw/). Any feedback is welcomed!

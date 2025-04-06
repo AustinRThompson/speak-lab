@@ -49,13 +49,14 @@ crossref:
       latex-list-of-description: Supplementary Figure
       
 freeze: true
+lightbox: true
 title-block-style: manuscript
 categories: 
   - Pre-print
 ---
 
 ::: {.callout-note appearance="simple"}
-This is a pre-print.
+This is a pre-print and has not been peer-reviewed.
 :::
 
 ::: {custom-style="noIndentParagraph"}
