@@ -10,7 +10,7 @@ author:
       - University of Houston
   - name: Micah Hirsch
     affiliations:
-      - Stepp Lab for Sensorimotor Rehabilitation Engineering
+      - Department of Speech, Language, and Hearing Sciences
       - Boston University
   - name: Yunjung Kim
     affiliations:

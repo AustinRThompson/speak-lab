@@ -36,8 +36,8 @@ Our research is committed to advancing the diagnostic and treatment techniques f
 
 ## Our Research
 
-:::::: columns
-::: {.column width="5%" .center}
+::::: columns
+::: {.column .center width="5%"}
 ### 👅
 :::
 
@@ -46,10 +46,10 @@ Our research is committed to advancing the diagnostic and treatment techniques f
 
 We're studying what makes speech hard to understand for people with speech difficulties like dysarthria. Using instruments like ultrasound and electromagnetic articulography, we're checking how the tongue, lips, and jaw move when individuals talk.
 :::
-::::::
+:::::
 
-:::::: columns
-::: {.column width="5%" .center}
+::::: columns
+::: {.column .center width="5%"}
 ### 💬
 :::
 
@@ -58,10 +58,10 @@ We're studying what makes speech hard to understand for people with speech diffi
 
 We're investigating how different languages and dialects affect speech in people with and without speech problems like dysarthria. Researchers often believe that dysarthria is language-universal, but our research shows it's not that simple – where you're from and how you speak can interact with dysarthria.
 :::
-::::::
+:::::
 
-:::::: columns
-::: {.column width="5%" .center}
+::::: columns
+::: {.column .center width="5%"}
 ### 📐
 :::
 
@@ -70,7 +70,7 @@ We're investigating how different languages and dialects affect speech in people
 
 We explore the reliability of our measurements and whether they truly capture what we intend to measure. We're also interested in the concept of open science and how it can enhance research practices. With these aims, we hope to strengthen the integrity and impact of our research findings.
 :::
-::::::
+:::::
 
 ## Blog
 

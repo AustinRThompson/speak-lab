@@ -4,6 +4,7 @@ project:
 
 website:
   title: "SPEAK Lab"
+  favicon: /Images/favicon/favicon-96x96.png
   navbar:
     title: " 
   ![](/Images/Logo.png){width=45}
