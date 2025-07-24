@@ -6,6 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Yunjung Kim">
+<meta name="author" content="Austin Thompson">
+<meta name="author" content="Seung Jin Lee">
+<meta name="dcterms.date" content="2024-10-08">
 
 <title>SPEAK Lab</title>
 <style>
@@ -23,25 +27,23 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<link href=".//Images/favicon/favicon-96x96.png" rel="icon" type="image/png">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="../../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../../">
+<link href="../../..//Images/favicon/favicon-96x96.png" rel="icon" type="image/png">
+<script src="../../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -69,78 +71,20 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-sample-posts .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
 
-    const options = {
-      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-sample-posts'] = new List('listing-sample-posts', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="./styles.css">
+<link rel="stylesheet" href="../../../styles.css">
 </head>
 
 <body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top">
+  <header id="quarto-header" class="headroom fixed-top quarto-banner">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
-    <span class="navbar-title"><img src="./Images/Logo.png" class="img-fluid" width="45"> &nbsp;&nbsp;SPEAK Lab</span>
+    <a class="navbar-brand" href="../../../index.html">
+    <span class="navbar-title"><img src="../../../Images/Logo.png" class="img-fluid" width="45"> &nbsp;&nbsp;SPEAK Lab</span>
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -150,19 +94,19 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="../../../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./team.html"> 
+    <a class="nav-link" href="../../../team.html"> 
 <span class="menu-text">Team</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./Research/index.html"> 
+    <a class="nav-link" href="../../../Research/index.html"> 
 <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./blog.html"> 
+    <a class="nav-link" href="../../../blog.html"> 
 <span class="menu-text">Blog</span></a>
   </li>  
 </ul>
@@ -173,7 +117,76 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-body">
+      <h1 class="title">Does native language matter in perceptual ratings of dysarthria?</h1>
+                                <div class="quarto-categories">
+                <div class="quarto-category">Publication</div>
+                <div class="quarto-category">Parkinson’s disease</div>
+              </div>
+                  </div>
+  </div>
+    
+  <div class="quarto-title-meta-author">
+    <div class="quarto-title-meta-heading">Authors</div>
+    <div class="quarto-title-meta-heading">Affiliations</div>
+    
+      <div class="quarto-title-meta-contents">
+      <p class="author">Yunjung Kim <a href="https://orcid.org/0000-0001-6553-9101" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a></p>
+    </div>
+    <div class="quarto-title-meta-contents">
+          <p class="affiliation">
+              Florida State University
+            </p>
+        </div>
+      <div class="quarto-title-meta-contents">
+      <p class="author">Austin Thompson <a href="https://orcid.org/0000-0002-4224-4850" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a></p>
+    </div>
+    <div class="quarto-title-meta-contents">
+          <p class="affiliation">
+              University of Houston
+            </p>
+        </div>
+      <div class="quarto-title-meta-contents">
+      <p class="author">Seung Jin Lee <a href="https://orcid.org/0000-0001-6200-0004" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a></p>
+    </div>
+    <div class="quarto-title-meta-contents">
+          <p class="affiliation">
+              Hallym University
+            </p>
+        </div>
+    </div>
+
+  <div class="quarto-title-meta">
+
+        
+      <div>
+      <div class="quarto-title-meta-heading">Published</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">October 8, 2024</p>
+      </div>
+    </div>
+    
+      
+      <div>
+      <div class="quarto-title-meta-heading">Doi</div>
+      <div class="quarto-title-meta-contents">
+        <p class="doi">
+          <a href="https://doi.org/https://doi.org/10.1044/2024_JSLHR-23-00668">https://doi.org/10.1044/2024_JSLHR-23-00668</a>
+        </p>
+      </div>
+    </div>
+    </div>
+    
+  <div>
+    <div class="abstract">
+      <div class="block-title">Abstract</div>
+      <strong>Purpose:</strong> Despite the general agreement that dysarthria characteristics are largely language-independent, few efforts have attempted a systematic comparison across languages. To examine the role of native languages in the perception of speech characteristics of dysarthria secondary to Parkinson’s disease (PD), auditory-perceptual ratings of dysarthria, and confidence level of the judgments were compared between two listener groups: language-matched and language-crossed. <br> <strong>Method:</strong> A total of 60 listeners (35 native speakers of Korean and 25 native speakers of American English) estimated speech abnormality for 20 speech dimensions using a visual analog scale method for both language-matched and language-crossed speech stimuli. Speech stimuli were passage readings of the respective languages obtained from individuals with and without PD. <br> <strong>Results:</strong> For speech dimension ratings, eight of 20 speech dimensions revealed significant differences in response to PD speech between the two listener groups, for most of which, language-crossed listeners’ estimation was lower (i.e., more impaired) than language-matched listeners. For confidence-level ratings, language-matched listeners were less confident in the ratings of speakers with PD compared to the language-crossed listeners. <br> <strong>Conclusions:</strong> The data support both language-universal and language-specific aspects in perceiving dysarthria characteristics, such that native language plays a role, especially when rating articulatory- and rhythmic-related characteristics. The findings are discussed with respect to the role of linguistic information, such as phonetic inventories and prosodic structures, in perceiving dysarthria characteristics.
+    </div>
+  </div>
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
@@ -181,175 +194,25 @@ window.Quarto = {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#our-research" id="toc-our-research" class="nav-link active" data-scroll-target="#our-research">Our Research</a></li>
-  <li><a href="#blog" id="toc-blog" class="nav-link" data-scroll-target="#blog">Blog</a></li>
-  <li><a href="#contact-us" id="toc-contact-us" class="nav-link" data-scroll-target="#contact-us">Contact Us</a></li>
-  <li><a href="#visit-us" id="toc-visit-us" class="nav-link" data-scroll-target="#visit-us">Visit Us</a></li>
+  <li><a href="#important-links" id="toc-important-links" class="nav-link active" data-scroll-target="#important-links">Important Links</a></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content quarto-banner-title-block" id="quarto-document-content">
 
 
 
 
-<div class="columns">
-<div class="column" style="width:35%;">
-<p><img src="Images/Logo.png" class="img-fluid" width="250"></p>
-</div><div class="column" style="width:5%;">
-<!-- empty column to create gap -->
-</div><div class="column" style="width:60%;">
+
 <p><br>
 <br>
 </p>
-<section id="the-speak-lab-is-a-research-laboratory-at-the-university-of-houston-led-by-austin-thompson." class="level4">
-<h4 class="anchored" data-anchor-id="the-speak-lab-is-a-research-laboratory-at-the-university-of-houston-led-by-austin-thompson."><strong>The SPEAK Lab is a research laboratory at the University of Houston led by <a href="./team.html#austin-thompson">Austin Thompson</a>.</strong></h4>
-<p>Our research is committed to advancing the diagnostic and treatment techniques for patients with motor speech disorders, such as dysarthria.</p>
-</section>
-</div>
-</div>
-<p><br>
-<br>
-</p>
-<section id="our-research" class="level2">
-<h2 class="anchored" data-anchor-id="our-research">Our Research</h2>
-<div class="columns">
-<div class="column center" style="width:5%;">
-<section id="section" class="level3">
-<h3 class="anchored" data-anchor-id="section">👅</h3>
-</section>
-</div><div class="column" style="width:95%;">
-<section id="instrumental-analysis-of-speech" class="level3">
-<h3 class="anchored" data-anchor-id="instrumental-analysis-of-speech">Instrumental Analysis of Speech</h3>
-<p>We’re studying what makes speech hard to understand for people with speech difficulties like dysarthria. Using instruments like ultrasound and electromagnetic articulography, we’re checking how the tongue, lips, and jaw move when individuals talk.</p>
-</section>
-</div>
-</div>
-<div class="columns">
-<div class="column center" style="width:5%;">
-<section id="section-1" class="level3">
-<h3 class="anchored" data-anchor-id="section-1">💬</h3>
-</section>
-</div><div class="column" style="width:95%;">
-<section id="language-and-dialects-impact-on-speech" class="level3">
-<h3 class="anchored" data-anchor-id="language-and-dialects-impact-on-speech">Language and Dialect’s Impact on Speech</h3>
-<p>We’re investigating how different languages and dialects affect speech in people with and without speech problems like dysarthria. Researchers often believe that dysarthria is language-universal, but our research shows it’s not that simple – where you’re from and how you speak can interact with dysarthria.</p>
-</section>
-</div>
-</div>
-<div class="columns">
-<div class="column center" style="width:5%;">
-<section id="section-2" class="level3">
-<h3 class="anchored" data-anchor-id="section-2">📐</h3>
-</section>
-</div><div class="column" style="width:95%;">
-<section id="meta-science-and-open-science" class="level3">
-<h3 class="anchored" data-anchor-id="meta-science-and-open-science">Meta-Science and Open Science</h3>
-<p>We explore the reliability of our measurements and whether they truly capture what we intend to measure. We’re also interested in the concept of open science and how it can enhance research practices. With these aims, we hope to strengthen the integrity and impact of our research findings.</p>
-</section>
-</div>
-</div>
-</section>
-<section id="blog" class="level2">
-<h2 class="anchored" data-anchor-id="blog">Blog</h2>
-<div id="listing-sample-posts" class="quarto-listing quarto-listing-container-grid">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="conferences" data-listing-date-sort="1713416400000" data-listing-file-modified-sort="1743886722534" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="250">
-<a href="./Posts/2024_12_08_ASHA Convention 2024/2024_12_08_ASHA Convention 2024.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top"><img src="Posts/2024_12_08_ASHA Convention 2024/IMG_2938.jpg" alt="Space needle." style="height: 150px;"  class="thumbnail-image card-img"/></p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-SPEAK Lab attends the ASHA 2024 Convention in Seattle, WA
-</h5>
-<div class="card-text listing-description">
-<br>
-
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Austin Thompson
-</div>
-<div class="listing-date">
-Apr 18, 2024
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="1" data-listing-date-sort="1713416400000" data-listing-file-modified-sort="1743885629944" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="240">
-<a href="./Posts/2024_04_18_Lessons for Success/2024_04_18_Lessons for Success.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top"><img src="Posts/2024_04_18_Lessons for Success/IMG_1824.png" alt="Stoked about the first day of the conference!" style="height: 150px;"  class="thumbnail-image card-img"/></p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Austin Thompson attends the ASHA 2024 Lessons for Success conference
-</h5>
-<div class="card-text listing-description">
-<br>
-
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Austin Thompson
-</div>
-<div class="listing-date">
-Apr 18, 2024
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="2" data-categories="New Publication" data-listing-date-sort="1676527200000" data-listing-file-modified-sort="1743885777762" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="431">
-<a href="./Posts/2023_02_16_Vowel Acoustics as Predictors of Intelligibility/2023_02_16_Vowel Acoustics as Predictors of Intelligibility.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top"><img src="Posts/2023_02_16_Vowel Acoustics as Predictors of Intelligibility/Measures.png" alt="Figure 1. Token-based (top row) and trajectory-based (bottom row) measures used in the current study. Although the token-based measures (top row) did not rely on the continuously sampled formant trajectories, they are plotted behind the token measures to demonstrate that all the target measures were measured from the same passage. VSA = vowel space area; VSAHull = vowel space hull area; VSD = vowel space density; F1 = first formant fequency; F2 = second formant frequency." style="height: 150px;"  class="thumbnail-image card-img"/></p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-New Publication: Vowel Acoustics as Predictors of Speech Intelligibility in Dysarthria
-</h5>
-<div class="card-text listing-description">
-<br>
-
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Austin Thompson
-</div>
-<div class="listing-date">
-Feb 16, 2023
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div>
-</section>
-<section id="contact-us" class="level2">
-<h2 class="anchored" data-anchor-id="contact-us">Contact Us</h2>
-<p><strong>Email us</strong> → <a href="mailto:thespeaklab@gmail.com">thespeaklab@gmail.com</a></p>
-<p>Or visit our <a href="https://speak-lab.com/contact">contact page</a>, or find us on <a href="https://speak-lab.com/contact/social-media">social media</a>!<br>
-<br>
-</p>
-</section>
-<section id="visit-us" class="level2">
-<h2 class="anchored" data-anchor-id="visit-us">Visit Us</h2>
-<div class="line-block">Melcher Life Sciences<br>
-3871 Holman St.&nbsp;Room M245G<br>
-Houston, TX 77204-6018</div>
-<p><br>
-</p>
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d433.10049643154343!2d-95.3489373888708!3d29.725437070333367!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f50.1!3m3!1m2!1s0x8640bf000500dc15%3A0x181db38daa15d0cb!2sMelcher%20Life%20Sciences%20Building!5e0!3m2!1sen!2sus!4v1743785330194!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
+<section id="important-links" class="level2">
+<h2 class="anchored" data-anchor-id="important-links">Important Links</h2>
+<ul>
+<li><a href="https://doi.org/10.1044/2024_JSLHR-23-00668">Read on JSLHR</a></li>
+</ul>
 
 
 </section>

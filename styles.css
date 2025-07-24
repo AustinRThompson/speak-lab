@@ -1,1 +1,18 @@
 /* css styles */
+
+/* Formatting the publications on the research page */
+.pub-list.list > li {
+  margin-bottom: 2rem; /* Adjust as needed */
+}
+
+.pub-list {
+  list-style-type: none;
+  padding-left: .5;
+}
+
+.btn,
+.btn-primary,
+.btn-secondary,
+.btn-tertiary {
+  border-radius: 1.5rem;
+}
