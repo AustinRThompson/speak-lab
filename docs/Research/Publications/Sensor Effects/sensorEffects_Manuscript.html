@@ -4757,7 +4757,20 @@ font-family: inherit;
 
 
 <style type="text/css">
-</style>
+
+.pub-list.list > li {
+margin-bottom: 2rem; 
+}
+.pub-list {
+list-style-type: none;
+padding-left: .5;
+}
+.btn,
+.btn-primary,
+.btn-secondary,
+.btn-tertiary {
+border-radius: 1.5rem;
+}</style>
 </head>
 
 <body class="nav-fixed">
@@ -12516,7 +12529,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     </div>
   </div>
 </footer>
-<script>var lightboxQuarto = GLightbox({"descPosition":"bottom","closeEffect":"zoom","loop":false,"openEffect":"zoom","selector":".lightbox"});
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","selector":".lightbox","loop":false,"descPosition":"bottom","openEffect":"zoom"});
 (function() {
   let previousOnload = window.onload;
   window.onload = () => {
