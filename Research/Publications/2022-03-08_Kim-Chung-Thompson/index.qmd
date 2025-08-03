@@ -1,0 +1,54 @@
+---
+title: "Acoustic and Articulatory Characteristics of English Semivowels /ɹ, l, w/ Produced by Adult Second-Language Speakers"
+publication: "Journal of Speech, Language, and Hearing Research"
+date: "2022-03-08" # year-month-day
+year: "2022"
+author: 
+  - name: Yunjung Kim
+    orcid: 0000-0001-6553-9101
+    affiliations:
+      - Florida State University
+  - name: Hyunju Chung
+    orcid: 0000-0002-6657-7422
+    affiliations:
+      - Louisiana State University
+  - name: Austin Thompson
+    orcid: 0000-0002-4224-4850
+    affiliations:
+      - Florida State University
+categories: 
+  - "Publication"
+  - "L2 speech"
+links:
+  doi:
+    show: TRUE
+    link: "https://doi.org/10.1044/2021_JSLHR-21-00152"
+  oa:
+    show: FALSE
+    link: 
+  postprint:
+    show: FALSE
+    link: 
+  materials:
+    show: FALSE
+    link: 
+  preregistration:
+    show: FALSE
+    link: 
+abstract: "**Purpose:** This study presents the results of acoustic and kinematic analyses of word-initial semivowels (/ɹ, l, w/) produced by second-language (L2) speakers of English whose native language is Korean. In addition, the relationship of acoustic and kinematic measures to the ratings of foreign accent was examined by correlation analyses.
+<br>
+**Method:** Eleven L2 speakers and 10 native speakers (first language [L1]) of English read The Caterpillar passage. Acoustic and kinematic data were simultaneously recorded using an electromagnetic articulography system. In addition to speaking rate, two acoustic measures (ratio of third-formant [F3] frequency to second-formant [F2] frequency and duration of steady states of F2) and two kinematic measures (lip aperture and duration of lingual maximum hold) were obtained from individual target sounds. To examine the degree of contrast among the three sounds, acoustic and kinematic Euclidean distances were computed on the F2–F3 and x–y planes, respectively.
+<br>
+**Results:** Compared with L1 speakers, L2 speakers exhibited a significantly slower speaking rate. For the three semivowels, L2 speakers showed a reduced F3/F2 ratio during constriction, increased lip aperture, and reduced acoustic Euclidean distances among semivowels. Additionally, perceptual ratings of foreign accent were significantly correlated with three measures: duration of steady F2, acoustic Euclidean distance, and kinematic Euclidean distance.
+<br>
+**Conclusions:** The findings provide acoustic and kinematic evidence for challenges that L2 speakers experience in the production of English semivowels, especially /ɹ/ and /w/. The robust and consistent finding of reduced contrasts among semivowels and their correlations with perceptual accent ratings suggests using sound contrasts as a potentially effective approach to accent modification paradigms."
+title-block-banner: true
+editor: source
+---
+
+\
+\
+
+## Important Links
+
+{{< include ../../../_includes/pub-buttons.qmd >}}

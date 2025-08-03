@@ -1,0 +1,49 @@
+---
+title: "An Acoustic-Phonetic Approach to Effects of Face Masks on Speech Intelligibility"
+publication: "Journal of Speech, Language, and Hearing Research"
+date: "2022-12-12" # year-month-day
+year: "2022"
+author: 
+  - name: Yunjung Kim
+    orcid: 0000-0001-6553-9101
+    affiliations:
+      - Florida State University
+  - name: Austin Thompson
+    orcid: 0000-0002-4224-4850
+    affiliations:
+      - Florida State University
+categories: 
+  - "Publication"
+links:
+  doi:
+    show: TRUE
+    link: "https://doi.org/10.1044/2022_JSLHR-22-00245"
+  oa:
+    show: FALSE
+    link: 
+  postprint:
+    show: FALSE
+    link: 
+  materials:
+    show: FALSE
+    link: 
+  preregistration:
+    show: FALSE
+    link: 
+abstract: "**Purpose:** This study aimed to examine the effects of wearing a face mask on speech acoustics and intelligibility, using an acoustic-phonetic analysis of speech. In addition, the effects of speakers' behavioral modification while wearing a mask were examined.
+<br>
+**Method:** Fourteen female adults were asked to read a set of words and sentences under three conditions: (a) conversational, mask-off; (b) conversational, mask-on; and (c) clear, mask-on. Seventy listeners rated speech intelligibility using two methods: orthographic transcription and visual analog scale (VAS). Acoustic measures for vowels included duration, first (F1) and second (F2) formant frequency, and intensity ratio of F1/F2. For consonants, spectral moment coefficients and consonant–vowel (CV) boundary (intensity ratio between consonant and vowel) were measured.
+<br>
+**Results:** Face masks had a negative impact on speech intelligibility as measured by both intelligibility ratings. However, speech intelligibility was recovered in the clear speech condition for VAS but not for transcription scores. Analysis of orthographic transcription showed that listeners tended to frequently confuse consonants (particularly fricatives, affricates, and stops), rather than vowels in the word-initial position. Acoustic data indicated a significant effect of condition on CV intensity ratio only.
+<br>
+**Conclusions:** Our data demonstrate a negative effect of face masks on speech intelligibility, mainly affecting consonants. However, intelligibility can be enhanced by speaking clearly, likely driven by prosodic alterations."
+title-block-banner: true
+editor: source
+---
+
+\
+\
+
+## Important Links
+
+{{< include ../../../_includes/pub-buttons.qmd >}}

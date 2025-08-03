@@ -1,0 +1,51 @@
+---
+title: "Acoustic and kinematic predictors of intelligibility and articulatory precision in Parkinson’s disease"
+publication: "Journal of Speech, Language, and Hearing Research"
+date: "2024-10-08" # year-month-day
+year: "2024"
+author: 
+  - name: Austin Thompson
+    orcid: 0000-0002-4224-4850
+    affiliations:
+      - University of Houston
+  - name: Yunjung Kim
+    orcid: 0000-0001-6553-9101
+    affiliations:
+      - Florida State University
+categories: 
+  - "Publication"
+  - "Parkinson's disease"
+links:
+  doi:
+    show: TRUE
+    link: "https://doi.org/10.1044/2024_JSLHR-24-00153"
+  pubmed:
+    show: TRUE
+    link: "https://pubmed.ncbi.nlm.nih.gov/39259883/"
+  postprint:
+    show: TRUE
+    link: "https://osf.io/preprints/osf/9wpsr_v1"
+  materials:
+    show: TRUE
+    link: "https://osf.io/h7zpa/"
+  preregistration:
+    show: FALSE
+    link: 
+abstract: "**Purpose:** This study investigated relationships within and between perceptual, acoustic, and kinematic measures in speakers with and without dysarthria due to Parkinson's disease (PD) across different clarity conditions. Additionally, the study assessed the predictive capabilities of selected acoustic and kinematic measures for intelligibility and articulatory precision ratings.
+<br>
+**Method:** Forty participants, comprising 22 with PD and 18 controls, read three phrases aloud using conversational, less clear, and more clear speaking conditions. Acoustic measures and their theoretical kinematic parallel measures (i.e., acoustic and kinematic distance and vowel space area [VSA]; second formant frequency [F2] slope and kinematic speed) were obtained from the diphthong /aɪ/ and selected vowels in the sentences. A total of 368 listeners from crowdsourcing provided ratings for intelligibility and articulatory precision. The research questions were examined using correlations and linear mixed-effects models.
+<br>
+**Results:** Intelligibility and articulatory precision ratings were highly correlated across all speakers. Acoustic and kinematic distance, as well as F2 slope and kinematic speed, showed moderately positive correlations. In contrast, acoustic and kinematic VSA exhibited no correlation. Among all measures, acoustic VSA and kinematic distance were robust predictors of both intelligibility and articulatory precision ratings, but they were stronger predictors of articulatory precision.
+<br>
+**Conclusions:** The findings highlight the importance of measurement selection when examining cross-domain relationships. Additionally, they support the use of behavioral modifications aimed at eliciting larger articulatory gestures to improve intelligibility in individuals with dysarthria due to PD."
+title-block-banner: true
+editor: source
+---
+
+\
+\
+
+## Important Links
+
+{{< include ../../../_includes/pub-buttons.qmd >}}
+

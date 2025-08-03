@@ -1,0 +1,52 @@
+---
+title: "The Reliability and Validity of Speech-Language Pathologists’ Estimations of Intelligibility in Dysarthria"
+publication: "Brain Sciences"
+date: "2022-06-21" # year-month-day
+year: "2022"
+author: 
+  - name: Micah E. Hirsch
+    orcid: 0000-0002-2661-0101
+    affiliations:
+      - Florida State University
+  - name: Austin Thompson
+    orcid: 0000-0002-4224-4850
+    affiliations:
+      - Florida State University
+  - name: Yunjung Kim
+    orcid: 0000-0001-6553-9101
+    affiliations:
+      - Florida State University
+  - name: Kaitlin L. Lansford
+    orcid: 0000-0002-0492-1005
+    affiliations:
+      - Florida State University
+categories: 
+  - "Publication"
+#  - "Parkinson's disease"
+links:
+  doi:
+    show: TRUE
+    link: "https://doi.org/10.3390/brainsci12081011"
+  oa:
+    show: TRUE
+    link: "https://doi.org/10.3390/brainsci12081011"
+  postprint:
+    show: TRUE
+    link: "https://osf.io/6p9x3_v1"
+  materials:
+    show: TRUE
+    link: "https://osf.io/sr9aw/"
+  preregistration:
+    show: FALSE
+    link: 
+abstract: "This study examined the reliability and validity of speech-language pathologists’ (SLP) estimations of speech intelligibility in dysarthria, including a visual analog scale (VAS) method and a percent estimation method commonly used in clinical settings. Speech samples from 20 speakers with dysarthria of varying etiologies were used to collect orthographic transcriptions from naïve listeners (n = 70) and VAS ratings and percent estimations of intelligibility from SLPs (n = 21). Intra- and interrater reliability for the two SLP intelligibility measures were evaluated, and the relationship between these measures was assessed. Finally, linear regression was used to evaluate the relationship between the naïve listeners’ orthographic transcription scores and the two SLP intelligibility measures. The results indicated that the intrarater reliability for both SLP intelligibility measures was strong, and the interrater reliability between the SLP ratings was moderate to excellent. A moderate positive relationship between SLPs’ VAS ratings and percent estimations was also observed. Finally, both SLPs’ percent estimations and VAS ratings were predictive of naïve listeners’ orthographic transcription scores, with SLPs’ percent estimations being the strongest predictor. In conclusion, the average SLP percent estimations and VAS ratings are valid and reliable intelligibility measures. However, the validity and reliability of these measures vary between SLPs."
+title-block-banner: true
+editor: source
+---
+
+\
+\
+
+## Important Links
+
+{{< include ../../../_includes/pub-buttons.qmd >}}
