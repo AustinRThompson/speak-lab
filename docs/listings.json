@@ -1,5 +1,11 @@
 [
   {
+    "listing": "/publications.html",
+    "items": [
+      "/Publications/Sensor Effects/sensorEffects_Manuscript.html"
+    ]
+  },
+  {
     "listing": "/blog.html",
     "items": [
       "/Posts/2024_12_08_ASHA Convention 2024/2024_12_08_ASHA Convention 2024.html",
@@ -20,18 +26,10 @@
   {
     "listing": "/Research/index.html",
     "items": [
-      "/Research/Publications/2025_01_02-Pfeiffer-et-al/index.html",
-      "/Research/Publications/2024-09-12_Kim-Thompson-Lee/index.html",
-      "/Research/Publications/2024-04-08_Kim-Thompson-Nip/index.html",
-      "/Research/Publications/2024-10-08_Thompson-and-Kim/index.html",
-      "/Research/Publications/2023-08-17_Thompson-et-al/index.html",
-      "/Research/Publications/2022-12-12_Kim-Thompson/index.html",
-      "/Research/Publications/2022-06-21_Hirsch-et-al/index.html",
-      "/Research/Publications/2022-03-08_Kim-Chung-Thompson/index.html",
-      "/Research/Publications/2020-08-20_Espinal-Thompson-Kim/index.html",
-      "/Research/Publications/2019-10-31_Watkins-Thompson-Kim/index.html",
-      "/Research/Publications/2019-04-29_Thompson-Kim/index.html",
-      "/Research/Publications/2025-Pfeiffer-et-al/index.html"
+      "/Research/Publications/2025a-Pfeiffer-et-al/index.html",
+      "/Research/Publications/2024-Thompson-and-Kim/index.html",
+      "/Research/Publications/2024-Kim-Thompson-Lee/index.html",
+      "/Research/Publications/2025b-Pfeiffer-et-al/index.html"
     ]
   }
 ]
