@@ -9,15 +9,6 @@
     ]
   },
   {
-    "listing": "/index.html",
-    "items": [
-      "/Posts/2024_12_08_ASHA Convention 2024/2024_12_08_ASHA Convention 2024.html",
-      "/Posts/2024_04_18_Lessons for Success/2024_04_18_Lessons for Success.html",
-      "/Posts/2023_02_16_Vowel Acoustics as Predictors of Intelligibility/2023_02_16_Vowel Acoustics as Predictors of Intelligibility.html",
-      "/Posts/2022_07_30_SLP Estimations of Intelligibility in Dysarthria/2022_07_30_SLP Estimations of Intelligibility in Dysarthria.html"
-    ]
-  },
-  {
     "listing": "/Research/index.html",
     "items": [
       "/Research/Publications/2025_01_02-Pfeiffer-et-al/index.html",
@@ -32,6 +23,15 @@
       "/Research/Publications/2019-10-31_Watkins-Thompson-Kim/index.html",
       "/Research/Publications/2019-04-29_Thompson-Kim/index.html",
       "/Research/Publications/2025-Pfeiffer-et-al/index.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/Posts/2024_12_08_ASHA Convention 2024/2024_12_08_ASHA Convention 2024.html",
+      "/Posts/2024_04_18_Lessons for Success/2024_04_18_Lessons for Success.html",
+      "/Posts/2023_02_16_Vowel Acoustics as Predictors of Intelligibility/2023_02_16_Vowel Acoustics as Predictors of Intelligibility.html",
+      "/Posts/2022_07_30_SLP Estimations of Intelligibility in Dysarthria/2022_07_30_SLP Estimations of Intelligibility in Dysarthria.html"
     ]
   }
 ]
