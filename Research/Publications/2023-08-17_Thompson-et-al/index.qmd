@@ -28,6 +28,9 @@ links:
   doi:
     show: TRUE
     link: "https://doi.org/10.1044/2022_JSLHR-22-00287"
+  pubmed:
+    show: TRUE
+    link: "https://pmc.ncbi.nlm.nih.gov/articles/PMC10569402/"
   postprint:
     show: TRUE
     link: "https://osf.io/preprints/osf/ezr8n_v1"

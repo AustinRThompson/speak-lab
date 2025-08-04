@@ -2,6 +2,10 @@
 [<i class="bi bi-journal"></i> DOI]({{< meta links.doi.link >}}){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Read this study on the journal's website."}
 :::
 
+::: {.content-hidden unless-meta="links.pubmed.show"}
+[<i class="bi bi-file-earmark-text"></i> Pubmed]({{< meta links.pubmed.link >}}){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Read this accepted version of this study for free."}
+:::
+
 ::: {.content-hidden unless-meta="links.postprint.show"}
 [<i class="bi bi-file-earmark-text"></i> Postprint]({{< meta links.postprint.link >}}){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Read this accepted version of this study for free."}
 :::

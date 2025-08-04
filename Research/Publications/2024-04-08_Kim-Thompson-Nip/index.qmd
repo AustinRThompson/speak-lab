@@ -23,6 +23,9 @@ links:
   doi:
     show: TRUE
     link: "https://doi.org/10.1044/2024_JSLHR-23-00511"
+  pubmed:
+    show: TRUE
+    link: "https://pmc.ncbi.nlm.nih.gov/articles/PMC11005955/"
   postprint:
     show: FALSE
     link: 
