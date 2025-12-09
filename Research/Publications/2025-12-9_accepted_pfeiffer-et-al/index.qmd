@@ -1,8 +1,8 @@
 ---
 title: "“There’s going to have to be a culture shift”: Associate and full professors’ perceptions and experiences related to open science practices in communication sciences and disorders"
-publication: "EdArXiv"
-date: "2025-06-10" # year-month-day
-year: "Under Review"
+publication: "Journal of Speech, Language, and Hearing Research"
+date: "2025-12-9" # year-month-day
+year: "Accepted"
 author: 
   - name: Danika Pfeiffer
     orcid: 0000-0003-1080-4961
@@ -38,7 +38,7 @@ author:
       - University of Cincinnati
 categories: 
   - "Open Science"
-  - "Preprint"
+  - "Publication"
 links:
   doi:
     show: FALSE
@@ -47,7 +47,7 @@ links:
     show: FALSE
     link: 
   oa:
-    show:
+    show: FALSE
     link:
   preprint:
     show: TRUE
@@ -61,6 +61,9 @@ links:
   preregistration:
     show: TRUE
     link: "https://osf.io/he3np"
+aliases:
+  - /Research/Publications/2025_preprint_Pfeiffer-et-al/
+  #- /Research/Publications/2025-12-9_accepted_pfeiffer-et-al/
 abstract: "**Purpose:** The purpose of this qualitative study is to expand upon the findings of Pfeiffer et al.’s (2025) study of the perceptions and experiences of Assistant Professors in Communication Sciences and Disorders (CSD) related to open science (OS) by examining those of Associate and Full Professors.
 <br>
 **Method:** Thirty-one faculty in CSD (15 Associate Professors and 16 Full Professors) each participated in one 1-hour virtual focus group conducted via Zoom videoconferencing software. The researchers used both deductive and inductive coding methods to analyze the focus group data and develop categories and subcategories summarizing the discussions. <br>
