@@ -1,8 +1,8 @@
 ---
 title: "Using Synthetic Data in Communication Sciences and Disorders to Promote Computational Reproducibility and Transparency"
 publication: "Journal of Speech, Language, and Hearing Research"
-date: "2025-08-12" # year-month-day
-year: "In Press"
+date: "2025-11-10" # year-month-day
+year: "2025"
 author: 
   - name: James Borders
     orcid: 0000-0002-0291-4266
@@ -38,7 +38,9 @@ links:
     show: TRUE
     link: "https://doi.org/10.17605/OSF.IO/VHGQ2"
 aliases:
-  - /publications/2025_postprint_Borders-et-al/
+  - /Research/Publications/2025_preprint_Borders-et-al/
+  - /Research/Publications/2025_postprint_Borders-et-al/
+
 abstract: "**Purpose:** Reproducibility is a core principle of science and access to a study’s data is essential to reproduce its findings. However, data sharing is uncommon in the field of Communication Sciences and Disorders (CSD), often due to concerns related to privacy and disclosure risks. Synthetic data offers a potential solution to this barrier by generating artificial datasets that do not represent real individuals yet retain statistical properties and relationships from the original data. This study aimed to explore the feasibility and preliminary utility of synthetic data to promote transparency and reproducibility in the field of CSD.\n
 
 **Method:** Ten open datasets were obtained from previously published research within the American Speech-Language-Hearing Association ‘Big Nine’ domains (articulation, cognition, communication, fluency, hearing, language, social communication, voice and resonance, and swallowing) across a range of study outcomes and designs. Synthetic datasets were generated with the synthpop R package. General utility was assessed visually and with the standardized
