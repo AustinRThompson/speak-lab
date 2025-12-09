@@ -24,25 +24,25 @@ listing:
     sort: "date desc"
     sort-ui: false
     filter-ui: false
-  - id: preprints
-    contents: Publications
-    template: ../ejs/article.ejs
-    type: table
-    fields:
-      - date
-      - title
-      - author
-      - journal-name
-    field-display-names: 
-      title: "Title"
-      date: "Publication Date"
-      author: "Author(s)"
-      journal-name: "Journal"
-    include:
-      categories: "Preprint"
-    sort: "date desc"
-    sort-ui: false
-    filter-ui: false
+#  - id: preprints
+#    contents: Publications
+#    template: ../ejs/article.ejs
+#    type: table
+#    fields:
+#      - date
+#      - title
+#      - author
+#      - journal-name
+#    field-display-names: 
+#      title: "Title"
+#      date: "Publication Date"
+#      author: "Author(s)"
+#      journal-name: "Journal"
+#    include:
+#      categories: "Preprint"
+#    sort: "date desc"
+#    sort-ui: false
+#    filter-ui: false
   - id: other
     contents: Publications
     template: ../ejs/article.ejs
@@ -68,11 +68,13 @@ lightbox: true
 
 Here is what we've been up to lately.\
 \
+<!--#
 
 ## Preprints
 
 ::: {#preprints}
 :::
+-->
 
 ## Peer-Reviewed Publications
 

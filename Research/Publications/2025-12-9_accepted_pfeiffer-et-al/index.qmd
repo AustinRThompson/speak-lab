@@ -2,8 +2,7 @@
 title: "“There’s going to have to be a culture shift”: Associate and full professors’ perceptions and experiences related to open science practices in communication sciences and disorders"
 publication: "Journal of Speech, Language, and Hearing Research"
 date: "2025-12-9" # year-month-day
-year: "Accepted"
-author: 
+year: "In Press"
   - name: Danika Pfeiffer
     orcid: 0000-0003-1080-4961
     affiliations:
