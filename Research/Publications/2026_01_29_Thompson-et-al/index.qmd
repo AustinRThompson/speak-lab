@@ -1,8 +1,8 @@
 ---
 title: "The Effects of Electromagnetic Articulography Sensors on Speech in Individuals with and without Parkinson's Disease"
 publication: "Journal of Speech, Language, and Hearing Research"
-date: "2025-10-06" # year-month-day
-year: "In Press"
+date: "2026-01-29" # year-month-day
+year: "2026"
 author: 
   - name: Austin Thompson
     orcid: 0000-0002-4224-4850

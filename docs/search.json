@@ -35,46 +35,67 @@
     "text": "Hello, world!\nToday, our study, “The Reliability and Validity of Speech-Language Pathologists’ Estimations of Intelligibility in Dysarthria,” was published in a special issue of Brain Sciences titled “Profiles of Dysarthria: Clinical Assessment and Treatment.”\nThis study examined the reliability and validity of a commonly used SLP practice for estimating speech intelligibility in dysarthria called percent estimations. Using this method, SLPs estimate the percent of speech understood following a conversation with their patient.\nThis project was motivated by a study by Gurevich and Scamihorn (2017), which surveyed SLPs’ practices for measuring intelligibility. They found that formal intelligibility assessments (e.g., Sentence Intelligibility Test [SIT]) are not often used in clinical practice. Instead, SLPs prefer to use informal intelligibility assessments, such as percent estimations. However, percent estimations have rarely been empirically examined in research settings. This study aimed to bridge the gap between clinical and research practices.\n\nHighlights\nMy favorite part of this project was comparing various methods of measuring speech intelligibility. Specifically, we examined SLPs’ percent estimations related to their visual analog scale (VAS) intelligibility ratings. While both measures were elicited with the same prompt (i.e., “Please indicate how much you understand”), the two measures produced vastly different intelligibility levels in some cases. For example, in the figure below, for speakers AM1 and HDM10, the average VAS ratings underestimated the average percent estimations. This finding may suggest that these two measures are measuring different constructs. We hypothesize that VAS intelligibility ratings capture global speech deficits (i.e., deficits across prosody, phonation, and articulation speech subsystems), while percent estimations capture the articulation subsystem alone. Our future work will further explore this hypothesis!\n\n\n\nFigure 4. SLPs’ Percent Estimates and VAS Ratings of Intelligibility as Predictors of Naïve Listeners’ Orthographic Transcriptions. OT = orthographic transcription; SLP = Speech-language pathologists, VAS = visual analog scale. The light gray line connects the data points for each of the 20 speakers. Two speakers, AM1 and HDM10, are highlighted within the figure and discussed in Section 4.2 of the discussion.\n\n\n\n\nChallenges\nThe most challenging part of this project was the design of the experiment protocol. We decided to compare SLPs’ VAS ratings and percent estimations of intelligibility to naive listeners’ orthographic transcriptions, as orthographic transcriptions from naive listeners are often considered the most objective measure of intelligibility. However, this required us to use different experimental protocols for the two listener groups. Because of this decision, we needed to aggregate the SLPs’ intelligibility ratings and the naive listeners’ transcriptions per speaker to compare the ratings across listener groups. This design prevented us from looking at individual responses using hierarchical linear modeling. However, we will do this in future work!\nThanks for reading. The article can be accessed here, and the cleaned data, analysis code, and supplemental materials can be accessed from here. Any feedback is welcomed!"
   },
   {
-    "objectID": "Research/Publications/2025_postprint_Thompson-et-al/index.html#important-links",
-    "href": "Research/Publications/2025_postprint_Thompson-et-al/index.html#important-links",
-    "title": "The Effects of Electromagnetic Articulography Sensors on Speech in Individuals with and without Parkinson’s Disease",
+    "objectID": "Research/Publications/2025-12-9_accepted_pfeiffer-et-al/index.html#important-links",
+    "href": "Research/Publications/2025-12-9_accepted_pfeiffer-et-al/index.html#important-links",
+    "title": "“There’s going to have to be a culture shift”: Associate and full professors’ perceptions and experiences related to open science practices in communication sciences and disorders",
     "section": "Important Links",
-    "text": "Important Links\n DOI\n Postprint\n Materials"
+    "text": "Important Links\n Preprint\n Materials\n Preregistration"
   },
   {
-    "objectID": "Research/Publications/2024-10-08_Thompson-and-Kim/index.html#important-links",
-    "href": "Research/Publications/2024-10-08_Thompson-and-Kim/index.html#important-links",
-    "title": "Acoustic and kinematic predictors of intelligibility and articulatory precision in Parkinson’s disease",
+    "objectID": "Research/Publications/2024-04-08_Kim-Thompson-Nip/index.html#important-links",
+    "href": "Research/Publications/2024-04-08_Kim-Thompson-Nip/index.html#important-links",
+    "title": "Effects of Deep-Brain Stimulation on Speech: Perceptual and Acoustic Data",
+    "section": "Important Links",
+    "text": "Important Links\n DOI\n Pubmed"
+  },
+  {
+    "objectID": "Research/Publications/2023-08-17_Thompson-et-al/index.html#important-links",
+    "href": "Research/Publications/2023-08-17_Thompson-et-al/index.html#important-links",
+    "title": "Vowel Acoustics as Predictors of Speech Intelligibility in Dysarthria",
     "section": "Important Links",
     "text": "Important Links\n DOI\n Pubmed\n Postprint\n Materials"
   },
   {
-    "objectID": "Research/Publications/2024-09-12_Kim-Thompson-Lee/index.html#important-links",
-    "href": "Research/Publications/2024-09-12_Kim-Thompson-Lee/index.html#important-links",
-    "title": "Does native language matter in perceptual ratings of dysarthria?",
+    "objectID": "Research/Publications/2025_01_02-Pfeiffer-et-al/index.html#important-links",
+    "href": "Research/Publications/2025_01_02-Pfeiffer-et-al/index.html#important-links",
+    "title": "“1-800-Help-Me-With-Open-Science-Stuff”: A Qualitative Examination of Open Science Practices in Communication Sciences and Disorders",
     "section": "Important Links",
-    "text": "Important Links\n DOI\n Pubmed"
+    "text": "Important Links\n DOI\n Postprint\n Materials\n Preregistration"
   },
   {
-    "objectID": "Research/Publications/2022-12-12_Kim-Thompson/index.html#important-links",
-    "href": "Research/Publications/2022-12-12_Kim-Thompson/index.html#important-links",
-    "title": "An Acoustic-Phonetic Approach to Effects of Face Masks on Speech Intelligibility",
+    "objectID": "Research/Publications/2022-03-08_Kim-Chung-Thompson/index.html#important-links",
+    "href": "Research/Publications/2022-03-08_Kim-Chung-Thompson/index.html#important-links",
+    "title": "Acoustic and Articulatory Characteristics of English Semivowels /ɹ, l, w/ Produced by Adult Second-Language Speakers",
     "section": "Important Links",
-    "text": "Important Links\n DOI\n Pubmed"
+    "text": "Important Links\n DOI"
   },
   {
-    "objectID": "Research/Publications/2025-11-10_borders-et-al/index.html#important-links",
-    "href": "Research/Publications/2025-11-10_borders-et-al/index.html#important-links",
-    "title": "Using Synthetic Data in Communication Sciences and Disorders to Promote Computational Reproducibility and Transparency",
+    "objectID": "Research/Publications/2019-10-31_Watkins-Thompson-Kim/index.html#important-links",
+    "href": "Research/Publications/2019-10-31_Watkins-Thompson-Kim/index.html#important-links",
+    "title": "Speech Deterioration of Amyotrophic Lateral Sclerosis Before and After Diagnosis: A Case Study of a Newscaster",
     "section": "Important Links",
-    "text": "Important Links\n Postprint\n Materials\n Preregistration"
+    "text": "Important Links\n DOI"
   },
   {
-    "objectID": "Research/Publications/2022-06-21_Hirsch-et-al/index.html#important-links",
-    "href": "Research/Publications/2022-06-21_Hirsch-et-al/index.html#important-links",
-    "title": "The Reliability and Validity of Speech-Language Pathologists’ Estimations of Intelligibility in Dysarthria",
+    "objectID": "Research/Publications/2019-04-29_Thompson-Kim/index.html#important-links",
+    "href": "Research/Publications/2019-04-29_Thompson-Kim/index.html#important-links",
+    "title": "Relation of Second Formant Trajectories to Tongue Kinematics",
     "section": "Important Links",
-    "text": "Important Links\n DOI\n Open Access\n Postprint\n Materials"
+    "text": "Important Links\n DOI\n Open Access"
+  },
+  {
+    "objectID": "Research/Publications/2020-08-20_Espinal-Thompson-Kim/index.html#important-links",
+    "href": "Research/Publications/2020-08-20_Espinal-Thompson-Kim/index.html#important-links",
+    "title": "Acoustic characteristics of American English liquids /ɹ/, /l/, /ɹl/ produced by Korean L2 adults",
+    "section": "Important Links",
+    "text": "Important Links\n DOI\n Open Access"
+  },
+  {
+    "objectID": "Research/Publications/2026_01_29_Thompson-et-al/index.html#important-links",
+    "href": "Research/Publications/2026_01_29_Thompson-et-al/index.html#important-links",
+    "title": "The Effects of Electromagnetic Articulography Sensors on Speech in Individuals with and without Parkinson’s Disease",
+    "section": "Important Links",
+    "text": "Important Links\n DOI\n Postprint\n Materials"
   },
   {
     "objectID": "Research/Publications/Sensor Effects/sensorEffects_Manuscript.html",
@@ -203,60 +224,39 @@
     "text": "Footnotes\n\n\nWhile the University of Wisconsin (UW) X-ray microbeam (XRMB) system is not an EMA system, this type of X-ray methodology was used prior to the widespread use of EMA (Barlow et al., 1983; Fujimura et al., 1973; Westbury, 1991). However, both methods allow for the investigation of fleshpoint data during speech movement. The XRMB used eight gold pellets attached to various articulators, including four lingual pellets. The pellets were 2-3 mm in diameter and did not require sensor wires like EMA devices.↩︎\nPlease note that the current study measured intelligibility using VAS, while Hustad et al. (2015) used orthographic transcriptions. However, the approach to describing reliability among perceptual ratings is consistent.↩︎"
   },
   {
-    "objectID": "Research/Publications/2020-08-20_Espinal-Thompson-Kim/index.html#important-links",
-    "href": "Research/Publications/2020-08-20_Espinal-Thompson-Kim/index.html#important-links",
-    "title": "Acoustic characteristics of American English liquids /ɹ/, /l/, /ɹl/ produced by Korean L2 adults",
+    "objectID": "Research/Publications/2022-06-21_Hirsch-et-al/index.html#important-links",
+    "href": "Research/Publications/2022-06-21_Hirsch-et-al/index.html#important-links",
+    "title": "The Reliability and Validity of Speech-Language Pathologists’ Estimations of Intelligibility in Dysarthria",
     "section": "Important Links",
-    "text": "Important Links\n DOI\n Open Access"
+    "text": "Important Links\n DOI\n Open Access\n Postprint\n Materials"
   },
   {
-    "objectID": "Research/Publications/2019-04-29_Thompson-Kim/index.html#important-links",
-    "href": "Research/Publications/2019-04-29_Thompson-Kim/index.html#important-links",
-    "title": "Relation of Second Formant Trajectories to Tongue Kinematics",
+    "objectID": "Research/Publications/2025-11-10_borders-et-al/index.html#important-links",
+    "href": "Research/Publications/2025-11-10_borders-et-al/index.html#important-links",
+    "title": "Using Synthetic Data in Communication Sciences and Disorders to Promote Computational Reproducibility and Transparency",
     "section": "Important Links",
-    "text": "Important Links\n DOI\n Open Access"
+    "text": "Important Links\n Postprint\n Materials\n Preregistration"
   },
   {
-    "objectID": "Research/Publications/2019-10-31_Watkins-Thompson-Kim/index.html#important-links",
-    "href": "Research/Publications/2019-10-31_Watkins-Thompson-Kim/index.html#important-links",
-    "title": "Speech Deterioration of Amyotrophic Lateral Sclerosis Before and After Diagnosis: A Case Study of a Newscaster",
-    "section": "Important Links",
-    "text": "Important Links\n DOI"
-  },
-  {
-    "objectID": "Research/Publications/2022-03-08_Kim-Chung-Thompson/index.html#important-links",
-    "href": "Research/Publications/2022-03-08_Kim-Chung-Thompson/index.html#important-links",
-    "title": "Acoustic and Articulatory Characteristics of English Semivowels /ɹ, l, w/ Produced by Adult Second-Language Speakers",
-    "section": "Important Links",
-    "text": "Important Links\n DOI"
-  },
-  {
-    "objectID": "Research/Publications/2025_01_02-Pfeiffer-et-al/index.html#important-links",
-    "href": "Research/Publications/2025_01_02-Pfeiffer-et-al/index.html#important-links",
-    "title": "“1-800-Help-Me-With-Open-Science-Stuff”: A Qualitative Examination of Open Science Practices in Communication Sciences and Disorders",
-    "section": "Important Links",
-    "text": "Important Links\n DOI\n Postprint\n Materials\n Preregistration"
-  },
-  {
-    "objectID": "Research/Publications/2023-08-17_Thompson-et-al/index.html#important-links",
-    "href": "Research/Publications/2023-08-17_Thompson-et-al/index.html#important-links",
-    "title": "Vowel Acoustics as Predictors of Speech Intelligibility in Dysarthria",
-    "section": "Important Links",
-    "text": "Important Links\n DOI\n Pubmed\n Postprint\n Materials"
-  },
-  {
-    "objectID": "Research/Publications/2024-04-08_Kim-Thompson-Nip/index.html#important-links",
-    "href": "Research/Publications/2024-04-08_Kim-Thompson-Nip/index.html#important-links",
-    "title": "Effects of Deep-Brain Stimulation on Speech: Perceptual and Acoustic Data",
+    "objectID": "Research/Publications/2022-12-12_Kim-Thompson/index.html#important-links",
+    "href": "Research/Publications/2022-12-12_Kim-Thompson/index.html#important-links",
+    "title": "An Acoustic-Phonetic Approach to Effects of Face Masks on Speech Intelligibility",
     "section": "Important Links",
     "text": "Important Links\n DOI\n Pubmed"
   },
   {
-    "objectID": "Research/Publications/2025-12-9_accepted_pfeiffer-et-al/index.html#important-links",
-    "href": "Research/Publications/2025-12-9_accepted_pfeiffer-et-al/index.html#important-links",
-    "title": "“There’s going to have to be a culture shift”: Associate and full professors’ perceptions and experiences related to open science practices in communication sciences and disorders",
+    "objectID": "Research/Publications/2024-09-12_Kim-Thompson-Lee/index.html#important-links",
+    "href": "Research/Publications/2024-09-12_Kim-Thompson-Lee/index.html#important-links",
+    "title": "Does native language matter in perceptual ratings of dysarthria?",
     "section": "Important Links",
-    "text": "Important Links\n Preprint\n Materials\n Preregistration"
+    "text": "Important Links\n DOI\n Pubmed"
+  },
+  {
+    "objectID": "Research/Publications/2024-10-08_Thompson-and-Kim/index.html#important-links",
+    "href": "Research/Publications/2024-10-08_Thompson-and-Kim/index.html#important-links",
+    "title": "Acoustic and kinematic predictors of intelligibility and articulatory precision in Parkinson’s disease",
+    "section": "Important Links",
+    "text": "Important Links\n DOI\n Pubmed\n Postprint\n Materials"
   },
   {
     "objectID": "Research/index.html",
@@ -270,7 +270,7 @@
     "href": "Research/index.html#peer-reviewed-publications",
     "title": "Research",
     "section": "Peer-Reviewed Publications",
-    "text": "Peer-Reviewed Publications\n\n\n\n  \n  “There’s going to have to be a culture shift”: Associate and full professors’ perceptions and experiences related to open science practices in communication sciences and disorders\n    Danika Pfeiffer, Austin Thompson, Alisa Baron, Collin Brice, Brittany Ciullo, Micah E. Hirsch, Helen Long, Andrea Ford\n    Journal of Speech, Language, and Hearing Research\n    (In Press)\n    \n      \n        Details\n      \n      \n      \n      \n      \n      \n      \n         Preprint\n      \n      \n      \n      \n         Materials\n      \n      \n      \n      \n         Preregistration\n      \n      \n      \n    \n  \n\n  \n  Using Synthetic Data in Communication Sciences and Disorders to Promote Computational Reproducibility and Transparency\n    James Borders, Austin Thompson, Elaine Kearney\n    Journal of Speech, Language, and Hearing Research\n    (2025)\n    \n      \n        Details\n      \n      \n      \n      \n      \n         Postprint\n      \n      \n      \n      \n      \n      \n         Materials\n      \n      \n      \n      \n         Preregistration\n      \n      \n      \n    \n  \n\n  \n  The Effects of Electromagnetic Articulography Sensors on Speech in Individuals with and without Parkinson's Disease\n    Austin Thompson, Micah E. Hirsch, Yunjung Kim\n    Journal of Speech, Language, and Hearing Research\n    (In Press)\n    \n      \n        Details\n      \n      \n      \n        DOI\n      \n      \n      \n      \n      \n         Postprint\n      \n      \n      \n      \n      \n      \n         Materials\n      \n      \n      \n      \n    \n  \n\n  \n  “1-800-Help-Me-With-Open-Science-Stuff”: A Qualitative Examination of Open Science Practices in Communication Sciences and Disorders\n    Danika Pfeiffer, Austin Thompson, Brittany Ciullo, Micah E. Hirsch, Mariam El Amin, Andrea Ford, Jessica Riccardi, Elaine Kearney\n    Journal of Speech, Language, and Hearing Research\n    (2025)\n    \n      \n        Details\n      \n      \n      \n        DOI\n      \n      \n      \n      \n      \n         Postprint\n      \n      \n      \n      \n      \n      \n         Materials\n      \n      \n      \n      \n         Preregistration\n      \n      \n      \n    \n  \n\n  \n  Does native language matter in perceptual ratings of dysarthria?\n    Yunjung Kim, Austin Thompson, Seung Jin Lee\n    Journal of Speech, Language, and Hearing Research\n    (2024)\n    \n      \n        Details\n      \n      \n      \n        DOI\n      \n      \n      \n      \n      \n      \n         PubMed\n      \n      \n      \n      \n      \n      \n    \n  \n\n  \n  Effects of Deep-Brain Stimulation on Speech: Perceptual and Acoustic Data\n    Yunjung Kim, Austin Thompson, Ignatius S. B. Nip\n    Journal of Speech, Language, and Hearing Research\n    (2024)\n    \n      \n        Details\n      \n      \n      \n        DOI\n      \n      \n      \n      \n      \n      \n         PubMed\n      \n      \n      \n      \n      \n      \n    \n  \n\n  \n  Acoustic and kinematic predictors of intelligibility and articulatory precision in Parkinson’s disease\n    Austin Thompson, Yunjung Kim\n    Journal of Speech, Language, and Hearing Research\n    (2024)\n    \n      \n        Details\n      \n      \n      \n        DOI\n      \n      \n      \n      \n      \n         Postprint\n      \n      \n      \n      \n         PubMed\n      \n      \n      \n      \n      \n         Materials\n      \n      \n      \n      \n    \n  \n\n  \n  Vowel Acoustics as Predictors of Speech Intelligibility in Dysarthria\n    Austin Thompson, Micah E. Hirsch, Kaitlin L. Lansford, Yunjung Kim\n    Journal of Speech, Language, and Hearing Research\n    (2023)\n    \n      \n        Details\n      \n      \n      \n        DOI\n      \n      \n      \n      \n      \n         Postprint\n      \n      \n      \n      \n         PubMed\n      \n      \n      \n      \n      \n         Materials\n      \n      \n      \n      \n    \n  \n\n  \n  An Acoustic-Phonetic Approach to Effects of Face Masks on Speech Intelligibility\n    Yunjung Kim, Austin Thompson\n    Journal of Speech, Language, and Hearing Research\n    (2022)\n    \n      \n        Details\n      \n      \n      \n        DOI\n      \n      \n      \n      \n      \n      \n         PubMed\n      \n      \n      \n      \n      \n      \n    \n  \n\n  \n  The Reliability and Validity of Speech-Language Pathologists’ Estimations of Intelligibility in Dysarthria\n    Micah E. Hirsch, Austin Thompson, Yunjung Kim, Kaitlin L. Lansford\n    Brain Sciences\n    (2022)\n    \n      \n        Details\n      \n      \n      \n        DOI\n      \n      \n      \n      \n         Open Access\n      \n      \n      \n      \n         Postprint\n      \n      \n      \n      \n      \n      \n         Materials\n      \n      \n      \n      \n    \n  \n\n  \n  Acoustic and Articulatory Characteristics of English Semivowels /ɹ, l, w/ Produced by Adult Second-Language Speakers\n    Yunjung Kim, Hyunju Chung, Austin Thompson\n    Journal of Speech, Language, and Hearing Research\n    (2022)\n    \n      \n        Details\n      \n      \n      \n        DOI\n      \n      \n      \n      \n      \n      \n      \n      \n      \n    \n  \n\n  \n  Acoustic characteristics of American English liquids /ɹ/, /l/, /ɹl/ produced by Korean L2 adults\n    Alexis Espinal, Austin Thompson, Yunjung Kim\n    The Journal of the Acoustical Society of America\n    (2020)\n    \n      \n        Details\n      \n      \n      \n        DOI\n      \n      \n      \n      \n         Open Access\n      \n      \n      \n      \n      \n      \n      \n      \n    \n  \n\n  \n  Speech Deterioration of Amyotrophic Lateral Sclerosis Before and After Diagnosis: A Case Study of a Newscaster\n    Emily Watkins, Austin Thompson, Yunjung Kim\n    Perspectives of the ASHA Special Interest Groups\n    (2019)\n    \n      \n        Details\n      \n      \n      \n        DOI\n      \n      \n      \n      \n      \n      \n      \n      \n      \n    \n  \n\n  \n  Relation of Second Formant Trajectories to Tongue Kinematics\n    Austin Thompson, Yunjung Kim\n    The Journal of the Acoustical Society of America\n    (2019)\n    \n      \n        Details\n      \n      \n      \n        DOI\n      \n      \n      \n      \n         Open Access\n      \n      \n      \n      \n      \n      \n      \n      \n    \n  \n\n\n\nNo matching items"
+    "text": "Peer-Reviewed Publications\n\n\n\n  \n  The Effects of Electromagnetic Articulography Sensors on Speech in Individuals with and without Parkinson's Disease\n    Austin Thompson, Micah E. Hirsch, Yunjung Kim\n    Journal of Speech, Language, and Hearing Research\n    (2026)\n    \n      \n        Details\n      \n      \n      \n        DOI\n      \n      \n      \n      \n      \n         Postprint\n      \n      \n      \n      \n      \n      \n         Materials\n      \n      \n      \n      \n    \n  \n\n  \n  “There’s going to have to be a culture shift”: Associate and full professors’ perceptions and experiences related to open science practices in communication sciences and disorders\n    Danika Pfeiffer, Austin Thompson, Alisa Baron, Collin Brice, Brittany Ciullo, Micah E. Hirsch, Helen Long, Andrea Ford\n    Journal of Speech, Language, and Hearing Research\n    (In Press)\n    \n      \n        Details\n      \n      \n      \n      \n      \n      \n      \n         Preprint\n      \n      \n      \n      \n         Materials\n      \n      \n      \n      \n         Preregistration\n      \n      \n      \n    \n  \n\n  \n  Using Synthetic Data in Communication Sciences and Disorders to Promote Computational Reproducibility and Transparency\n    James Borders, Austin Thompson, Elaine Kearney\n    Journal of Speech, Language, and Hearing Research\n    (2025)\n    \n      \n        Details\n      \n      \n      \n      \n      \n         Postprint\n      \n      \n      \n      \n      \n      \n         Materials\n      \n      \n      \n      \n         Preregistration\n      \n      \n      \n    \n  \n\n  \n  “1-800-Help-Me-With-Open-Science-Stuff”: A Qualitative Examination of Open Science Practices in Communication Sciences and Disorders\n    Danika Pfeiffer, Austin Thompson, Brittany Ciullo, Micah E. Hirsch, Mariam El Amin, Andrea Ford, Jessica Riccardi, Elaine Kearney\n    Journal of Speech, Language, and Hearing Research\n    (2025)\n    \n      \n        Details\n      \n      \n      \n        DOI\n      \n      \n      \n      \n      \n         Postprint\n      \n      \n      \n      \n      \n      \n         Materials\n      \n      \n      \n      \n         Preregistration\n      \n      \n      \n    \n  \n\n  \n  Does native language matter in perceptual ratings of dysarthria?\n    Yunjung Kim, Austin Thompson, Seung Jin Lee\n    Journal of Speech, Language, and Hearing Research\n    (2024)\n    \n      \n        Details\n      \n      \n      \n        DOI\n      \n      \n      \n      \n      \n      \n         PubMed\n      \n      \n      \n      \n      \n      \n    \n  \n\n  \n  Effects of Deep-Brain Stimulation on Speech: Perceptual and Acoustic Data\n    Yunjung Kim, Austin Thompson, Ignatius S. B. Nip\n    Journal of Speech, Language, and Hearing Research\n    (2024)\n    \n      \n        Details\n      \n      \n      \n        DOI\n      \n      \n      \n      \n      \n      \n         PubMed\n      \n      \n      \n      \n      \n      \n    \n  \n\n  \n  Acoustic and kinematic predictors of intelligibility and articulatory precision in Parkinson’s disease\n    Austin Thompson, Yunjung Kim\n    Journal of Speech, Language, and Hearing Research\n    (2024)\n    \n      \n        Details\n      \n      \n      \n        DOI\n      \n      \n      \n      \n      \n         Postprint\n      \n      \n      \n      \n         PubMed\n      \n      \n      \n      \n      \n         Materials\n      \n      \n      \n      \n    \n  \n\n  \n  Vowel Acoustics as Predictors of Speech Intelligibility in Dysarthria\n    Austin Thompson, Micah E. Hirsch, Kaitlin L. Lansford, Yunjung Kim\n    Journal of Speech, Language, and Hearing Research\n    (2023)\n    \n      \n        Details\n      \n      \n      \n        DOI\n      \n      \n      \n      \n      \n         Postprint\n      \n      \n      \n      \n         PubMed\n      \n      \n      \n      \n      \n         Materials\n      \n      \n      \n      \n    \n  \n\n  \n  An Acoustic-Phonetic Approach to Effects of Face Masks on Speech Intelligibility\n    Yunjung Kim, Austin Thompson\n    Journal of Speech, Language, and Hearing Research\n    (2022)\n    \n      \n        Details\n      \n      \n      \n        DOI\n      \n      \n      \n      \n      \n      \n         PubMed\n      \n      \n      \n      \n      \n      \n    \n  \n\n  \n  The Reliability and Validity of Speech-Language Pathologists’ Estimations of Intelligibility in Dysarthria\n    Micah E. Hirsch, Austin Thompson, Yunjung Kim, Kaitlin L. Lansford\n    Brain Sciences\n    (2022)\n    \n      \n        Details\n      \n      \n      \n        DOI\n      \n      \n      \n      \n         Open Access\n      \n      \n      \n      \n         Postprint\n      \n      \n      \n      \n      \n      \n         Materials\n      \n      \n      \n      \n    \n  \n\n  \n  Acoustic and Articulatory Characteristics of English Semivowels /ɹ, l, w/ Produced by Adult Second-Language Speakers\n    Yunjung Kim, Hyunju Chung, Austin Thompson\n    Journal of Speech, Language, and Hearing Research\n    (2022)\n    \n      \n        Details\n      \n      \n      \n        DOI\n      \n      \n      \n      \n      \n      \n      \n      \n      \n    \n  \n\n  \n  Acoustic characteristics of American English liquids /ɹ/, /l/, /ɹl/ produced by Korean L2 adults\n    Alexis Espinal, Austin Thompson, Yunjung Kim\n    The Journal of the Acoustical Society of America\n    (2020)\n    \n      \n        Details\n      \n      \n      \n        DOI\n      \n      \n      \n      \n         Open Access\n      \n      \n      \n      \n      \n      \n      \n      \n    \n  \n\n  \n  Speech Deterioration of Amyotrophic Lateral Sclerosis Before and After Diagnosis: A Case Study of a Newscaster\n    Emily Watkins, Austin Thompson, Yunjung Kim\n    Perspectives of the ASHA Special Interest Groups\n    (2019)\n    \n      \n        Details\n      \n      \n      \n        DOI\n      \n      \n      \n      \n      \n      \n      \n      \n      \n    \n  \n\n  \n  Relation of Second Formant Trajectories to Tongue Kinematics\n    Austin Thompson, Yunjung Kim\n    The Journal of the Acoustical Society of America\n    (2019)\n    \n      \n        Details\n      \n      \n      \n        DOI\n      \n      \n      \n      \n         Open Access\n      \n      \n      \n      \n      \n      \n      \n      \n    \n  \n\n\n\nNo matching items"
   },
   {
     "objectID": "Posts/2024_12_08_ASHA Convention 2024/2024_12_08_ASHA Convention 2024.html",
