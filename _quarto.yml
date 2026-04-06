@@ -16,7 +16,7 @@ website:
       - text: "Team"
         href: team.qmd
       - text: "Research"
-        href: Research/index.qmd
+        href: research/index.qmd
       - text: "Blog"
         href: blog.qmd
   page-footer: 
@@ -33,7 +33,7 @@ collections:
   Posts:
     title: "Blog"
     # The pattern must match the folder and file extension
-    pattern: "Posts/*.qmd"
+    pattern: "posts/*.qmd"
     sort: "date desc"
 
 format:
