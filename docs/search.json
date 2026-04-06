@@ -35,6 +35,48 @@
     "text": "Hello, world!\nToday, our study, “The Reliability and Validity of Speech-Language Pathologists’ Estimations of Intelligibility in Dysarthria,” was published in a special issue of Brain Sciences titled “Profiles of Dysarthria: Clinical Assessment and Treatment.”\nThis study examined the reliability and validity of a commonly used SLP practice for estimating speech intelligibility in dysarthria called percent estimations. Using this method, SLPs estimate the percent of speech understood following a conversation with their patient.\nThis project was motivated by a study by Gurevich and Scamihorn (2017), which surveyed SLPs’ practices for measuring intelligibility. They found that formal intelligibility assessments (e.g., Sentence Intelligibility Test [SIT]) are not often used in clinical practice. Instead, SLPs prefer to use informal intelligibility assessments, such as percent estimations. However, percent estimations have rarely been empirically examined in research settings. This study aimed to bridge the gap between clinical and research practices.\n\nHighlights\nMy favorite part of this project was comparing various methods of measuring speech intelligibility. Specifically, we examined SLPs’ percent estimations related to their visual analog scale (VAS) intelligibility ratings. While both measures were elicited with the same prompt (i.e., “Please indicate how much you understand”), the two measures produced vastly different intelligibility levels in some cases. For example, in the figure below, for speakers AM1 and HDM10, the average VAS ratings underestimated the average percent estimations. This finding may suggest that these two measures are measuring different constructs. We hypothesize that VAS intelligibility ratings capture global speech deficits (i.e., deficits across prosody, phonation, and articulation speech subsystems), while percent estimations capture the articulation subsystem alone. Our future work will further explore this hypothesis!\n\n\n\nFigure 4. SLPs’ Percent Estimates and VAS Ratings of Intelligibility as Predictors of Naïve Listeners’ Orthographic Transcriptions. OT = orthographic transcription; SLP = Speech-language pathologists, VAS = visual analog scale. The light gray line connects the data points for each of the 20 speakers. Two speakers, AM1 and HDM10, are highlighted within the figure and discussed in Section 4.2 of the discussion.\n\n\n\n\nChallenges\nThe most challenging part of this project was the design of the experiment protocol. We decided to compare SLPs’ VAS ratings and percent estimations of intelligibility to naive listeners’ orthographic transcriptions, as orthographic transcriptions from naive listeners are often considered the most objective measure of intelligibility. However, this required us to use different experimental protocols for the two listener groups. Because of this decision, we needed to aggregate the SLPs’ intelligibility ratings and the naive listeners’ transcriptions per speaker to compare the ratings across listener groups. This design prevented us from looking at individual responses using hierarchical linear modeling. However, we will do this in future work!\nThanks for reading. The article can be accessed here, and the cleaned data, analysis code, and supplemental materials can be accessed from here. Any feedback is welcomed!"
   },
   {
+    "objectID": "participate/pd-intelligibility-2026/index.html",
+    "href": "participate/pd-intelligibility-2026/index.html",
+    "title": "Speech Intelligibility in Parkinson’s Disease",
+    "section": "",
+    "text": "We are studying how speech-language pathologists estimate speech intelligibility in Parkinson’s disease and how these methods can be improved. This research aims to support more reliable and standardized clinical assessment."
+  },
+  {
+    "objectID": "participate/pd-intelligibility-2026/index.html#about-the-study",
+    "href": "participate/pd-intelligibility-2026/index.html#about-the-study",
+    "title": "Speech Intelligibility in Parkinson’s Disease",
+    "section": "",
+    "text": "We are studying how speech-language pathologists estimate speech intelligibility in Parkinson’s disease and how these methods can be improved. This research aims to support more reliable and standardized clinical assessment."
+  },
+  {
+    "objectID": "participate/pd-intelligibility-2026/index.html#what-participation-involves",
+    "href": "participate/pd-intelligibility-2026/index.html#what-participation-involves",
+    "title": "Speech Intelligibility in Parkinson’s Disease",
+    "section": "What participation involves",
+    "text": "What participation involves\nParticipation takes place entirely online and can be completed from your own device.\nYou will:\n\nListen to short speech samples from individuals with Parkinson’s disease\nMake judgments about how understandable the speech is using different approaches\n\nThe study takes approximately 20–30 minutes to complete."
+  },
+  {
+    "objectID": "participate/pd-intelligibility-2026/index.html#who-can-participate",
+    "href": "participate/pd-intelligibility-2026/index.html#who-can-participate",
+    "title": "Speech Intelligibility in Parkinson’s Disease",
+    "section": "Who can participate",
+    "text": "Who can participate\nYou may be eligible if you:\n\nHold a CCC-SLP (ASHA-certified)\nHave experience working with individuals with dysarthria\nAre a native English speaker and currently located in the United States\nHave no hearing difficulties that would interfere with listening"
+  },
+  {
+    "objectID": "participate/pd-intelligibility-2026/index.html#compensation",
+    "href": "participate/pd-intelligibility-2026/index.html#compensation",
+    "title": "Speech Intelligibility in Parkinson’s Disease",
+    "section": "Compensation",
+    "text": "Compensation\nParticipants will receive a $20 electronic gift card upon completion of the study."
+  },
+  {
+    "objectID": "participate/pd-intelligibility-2026/index.html#interested-in-participating",
+    "href": "participate/pd-intelligibility-2026/index.html#interested-in-participating",
+    "title": "Speech Intelligibility in Parkinson’s Disease",
+    "section": "Interested in Participating?",
+    "text": "Interested in Participating?\nClick the button below to complete a brief eligibility screening survey:\nComing Soon"
+  },
+  {
     "objectID": "research/publications/2025-12-9_accepted_pfeiffer-et-al/index.html#important-links",
     "href": "research/publications/2025-12-9_accepted_pfeiffer-et-al/index.html#important-links",
     "title": "“There’s going to have to be a culture shift”: Associate and full professors’ perceptions and experiences related to open science practices in communication sciences and disorders",
@@ -89,48 +131,6 @@
     "title": "Acoustic characteristics of American English liquids /ɹ/, /l/, /ɹl/ produced by Korean L2 adults",
     "section": "Important Links",
     "text": "Important Links\n DOI\n Open Access"
-  },
-  {
-    "objectID": "research/participate/slp-intelligibility-measurement/index.html",
-    "href": "research/participate/slp-intelligibility-measurement/index.html",
-    "title": "Speech Intelligibility in Parkinson’s Disease",
-    "section": "",
-    "text": "We are studying how speech-language pathologists estimate speech intelligibility in Parkinson’s disease and how these methods can be improved. This research aims to support more reliable and standardized clinical assessment."
-  },
-  {
-    "objectID": "research/participate/slp-intelligibility-measurement/index.html#about-the-study",
-    "href": "research/participate/slp-intelligibility-measurement/index.html#about-the-study",
-    "title": "Speech Intelligibility in Parkinson’s Disease",
-    "section": "",
-    "text": "We are studying how speech-language pathologists estimate speech intelligibility in Parkinson’s disease and how these methods can be improved. This research aims to support more reliable and standardized clinical assessment."
-  },
-  {
-    "objectID": "research/participate/slp-intelligibility-measurement/index.html#what-participation-involves",
-    "href": "research/participate/slp-intelligibility-measurement/index.html#what-participation-involves",
-    "title": "Speech Intelligibility in Parkinson’s Disease",
-    "section": "What participation involves",
-    "text": "What participation involves\nParticipation takes place entirely online and can be completed from your own device.\nYou will:\n\nListen to short speech samples from individuals with Parkinson’s disease\nMake judgments about how understandable the speech is using different approaches\n\nThe study takes approximately 20–30 minutes to complete."
-  },
-  {
-    "objectID": "research/participate/slp-intelligibility-measurement/index.html#who-can-participate",
-    "href": "research/participate/slp-intelligibility-measurement/index.html#who-can-participate",
-    "title": "Speech Intelligibility in Parkinson’s Disease",
-    "section": "Who can participate",
-    "text": "Who can participate\nYou may be eligible if you:\n\nHold a CCC-SLP (ASHA-certified)\nHave experience working with individuals with dysarthria\nAre a native English speaker and currently located in the United States\nHave no hearing difficulties that would interfere with listening"
-  },
-  {
-    "objectID": "research/participate/slp-intelligibility-measurement/index.html#compensation",
-    "href": "research/participate/slp-intelligibility-measurement/index.html#compensation",
-    "title": "Speech Intelligibility in Parkinson’s Disease",
-    "section": "Compensation",
-    "text": "Compensation\nParticipants will receive a $20 electronic gift card upon completion of the study."
-  },
-  {
-    "objectID": "research/participate/slp-intelligibility-measurement/index.html#interested-in-participating",
-    "href": "research/participate/slp-intelligibility-measurement/index.html#interested-in-participating",
-    "title": "Speech Intelligibility in Parkinson’s Disease",
-    "section": "Interested in Participating?",
-    "text": "Interested in Participating?\nClick the button below to complete a brief eligibility screening survey:\nComing Soon"
   },
   {
     "objectID": "research/publications/2026_01_29_thompson-et-al/index.html#important-links",
@@ -313,6 +313,48 @@
     "title": "Research",
     "section": "Peer-Reviewed Publications",
     "text": "Peer-Reviewed Publications\n\n\n\n  \n  The Effects of Electromagnetic Articulography Sensors on Speech in Individuals with and without Parkinson's Disease\n    Austin Thompson, Micah E. Hirsch, Yunjung Kim\n    Journal of Speech, Language, and Hearing Research\n    (2026)\n    \n      \n        Details\n      \n      \n      \n        DOI\n      \n      \n      \n      \n      \n         Postprint\n      \n      \n      \n      \n      \n      \n         Materials\n      \n      \n      \n      \n    \n  \n\n  \n  “There’s going to have to be a culture shift”: Associate and full professors’ perceptions and experiences related to open science practices in communication sciences and disorders\n    Danika Pfeiffer, Austin Thompson, Alisa Baron, Collin Brice, Brittany Ciullo, Micah E. Hirsch, Helen Long, Andrea Ford\n    Journal of Speech, Language, and Hearing Research\n    (In Press)\n    \n      \n        Details\n      \n      \n      \n      \n      \n      \n      \n         Preprint\n      \n      \n      \n      \n         Materials\n      \n      \n      \n      \n         Preregistration\n      \n      \n      \n    \n  \n\n  \n  Using Synthetic Data in Communication Sciences and Disorders to Promote Computational Reproducibility and Transparency\n    James Borders, Austin Thompson, Elaine Kearney\n    Journal of Speech, Language, and Hearing Research\n    (2025)\n    \n      \n        Details\n      \n      \n      \n      \n      \n         Postprint\n      \n      \n      \n      \n      \n      \n         Materials\n      \n      \n      \n      \n         Preregistration\n      \n      \n      \n    \n  \n\n  \n  “1-800-Help-Me-With-Open-Science-Stuff”: A Qualitative Examination of Open Science Practices in Communication Sciences and Disorders\n    Danika Pfeiffer, Austin Thompson, Brittany Ciullo, Micah E. Hirsch, Mariam El Amin, Andrea Ford, Jessica Riccardi, Elaine Kearney\n    Journal of Speech, Language, and Hearing Research\n    (2025)\n    \n      \n        Details\n      \n      \n      \n        DOI\n      \n      \n      \n      \n      \n         Postprint\n      \n      \n      \n      \n      \n      \n         Materials\n      \n      \n      \n      \n         Preregistration\n      \n      \n      \n    \n  \n\n  \n  Does native language matter in perceptual ratings of dysarthria?\n    Yunjung Kim, Austin Thompson, Seung Jin Lee\n    Journal of Speech, Language, and Hearing Research\n    (2024)\n    \n      \n        Details\n      \n      \n      \n        DOI\n      \n      \n      \n      \n      \n      \n         PubMed\n      \n      \n      \n      \n      \n      \n    \n  \n\n  \n  Effects of Deep-Brain Stimulation on Speech: Perceptual and Acoustic Data\n    Yunjung Kim, Austin Thompson, Ignatius S. B. Nip\n    Journal of Speech, Language, and Hearing Research\n    (2024)\n    \n      \n        Details\n      \n      \n      \n        DOI\n      \n      \n      \n      \n      \n      \n         PubMed\n      \n      \n      \n      \n      \n      \n    \n  \n\n  \n  Acoustic and kinematic predictors of intelligibility and articulatory precision in Parkinson’s disease\n    Austin Thompson, Yunjung Kim\n    Journal of Speech, Language, and Hearing Research\n    (2024)\n    \n      \n        Details\n      \n      \n      \n        DOI\n      \n      \n      \n      \n      \n         Postprint\n      \n      \n      \n      \n         PubMed\n      \n      \n      \n      \n      \n         Materials\n      \n      \n      \n      \n    \n  \n\n  \n  Vowel Acoustics as Predictors of Speech Intelligibility in Dysarthria\n    Austin Thompson, Micah E. Hirsch, Kaitlin L. Lansford, Yunjung Kim\n    Journal of Speech, Language, and Hearing Research\n    (2023)\n    \n      \n        Details\n      \n      \n      \n        DOI\n      \n      \n      \n      \n      \n         Postprint\n      \n      \n      \n      \n         PubMed\n      \n      \n      \n      \n      \n         Materials\n      \n      \n      \n      \n    \n  \n\n  \n  An Acoustic-Phonetic Approach to Effects of Face Masks on Speech Intelligibility\n    Yunjung Kim, Austin Thompson\n    Journal of Speech, Language, and Hearing Research\n    (2022)\n    \n      \n        Details\n      \n      \n      \n        DOI\n      \n      \n      \n      \n      \n      \n         PubMed\n      \n      \n      \n      \n      \n      \n    \n  \n\n  \n  The Reliability and Validity of Speech-Language Pathologists’ Estimations of Intelligibility in Dysarthria\n    Micah E. Hirsch, Austin Thompson, Yunjung Kim, Kaitlin L. Lansford\n    Brain Sciences\n    (2022)\n    \n      \n        Details\n      \n      \n      \n        DOI\n      \n      \n      \n      \n         Open Access\n      \n      \n      \n      \n         Postprint\n      \n      \n      \n      \n      \n      \n         Materials\n      \n      \n      \n      \n    \n  \n\n  \n  Acoustic and Articulatory Characteristics of English Semivowels /ɹ, l, w/ Produced by Adult Second-Language Speakers\n    Yunjung Kim, Hyunju Chung, Austin Thompson\n    Journal of Speech, Language, and Hearing Research\n    (2022)\n    \n      \n        Details\n      \n      \n      \n        DOI\n      \n      \n      \n      \n      \n      \n      \n      \n      \n    \n  \n\n  \n  Acoustic characteristics of American English liquids /ɹ/, /l/, /ɹl/ produced by Korean L2 adults\n    Alexis Espinal, Austin Thompson, Yunjung Kim\n    The Journal of the Acoustical Society of America\n    (2020)\n    \n      \n        Details\n      \n      \n      \n        DOI\n      \n      \n      \n      \n         Open Access\n      \n      \n      \n      \n      \n      \n      \n      \n    \n  \n\n  \n  Speech Deterioration of Amyotrophic Lateral Sclerosis Before and After Diagnosis: A Case Study of a Newscaster\n    Emily Watkins, Austin Thompson, Yunjung Kim\n    Perspectives of the ASHA Special Interest Groups\n    (2019)\n    \n      \n        Details\n      \n      \n      \n        DOI\n      \n      \n      \n      \n      \n      \n      \n      \n      \n    \n  \n\n  \n  Relation of Second Formant Trajectories to Tongue Kinematics\n    Austin Thompson, Yunjung Kim\n    The Journal of the Acoustical Society of America\n    (2019)\n    \n      \n        Details\n      \n      \n      \n        DOI\n      \n      \n      \n      \n         Open Access\n      \n      \n      \n      \n      \n      \n      \n      \n    \n  \n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "participate/slp-intelligibility-2026/index.html",
+    "href": "participate/slp-intelligibility-2026/index.html",
+    "title": "Speech Intelligibility in Parkinson’s Disease",
+    "section": "",
+    "text": "We are studying how speech-language pathologists estimate speech intelligibility in Parkinson’s disease and how these methods can be improved. This research aims to support more reliable and standardized clinical assessment."
+  },
+  {
+    "objectID": "participate/slp-intelligibility-2026/index.html#about-the-study",
+    "href": "participate/slp-intelligibility-2026/index.html#about-the-study",
+    "title": "Speech Intelligibility in Parkinson’s Disease",
+    "section": "",
+    "text": "We are studying how speech-language pathologists estimate speech intelligibility in Parkinson’s disease and how these methods can be improved. This research aims to support more reliable and standardized clinical assessment."
+  },
+  {
+    "objectID": "participate/slp-intelligibility-2026/index.html#what-participation-involves",
+    "href": "participate/slp-intelligibility-2026/index.html#what-participation-involves",
+    "title": "Speech Intelligibility in Parkinson’s Disease",
+    "section": "What participation involves",
+    "text": "What participation involves\nParticipation takes place entirely online and can be completed from your own device.\nYou will:\n\nListen to short speech samples from individuals with Parkinson’s disease\nMake judgments about how understandable the speech is using different approaches\n\nThe study takes approximately 20–30 minutes to complete."
+  },
+  {
+    "objectID": "participate/slp-intelligibility-2026/index.html#who-can-participate",
+    "href": "participate/slp-intelligibility-2026/index.html#who-can-participate",
+    "title": "Speech Intelligibility in Parkinson’s Disease",
+    "section": "Who can participate",
+    "text": "Who can participate\nYou may be eligible if you:\n\nHold a CCC-SLP (ASHA-certified)\nHave experience working with individuals with dysarthria\nAre a native English speaker and currently located in the United States\nHave no hearing difficulties that would interfere with listening"
+  },
+  {
+    "objectID": "participate/slp-intelligibility-2026/index.html#compensation",
+    "href": "participate/slp-intelligibility-2026/index.html#compensation",
+    "title": "Speech Intelligibility in Parkinson’s Disease",
+    "section": "Compensation",
+    "text": "Compensation\nParticipants will receive a $20 electronic gift card upon completion of the study."
+  },
+  {
+    "objectID": "participate/slp-intelligibility-2026/index.html#interested-in-participating",
+    "href": "participate/slp-intelligibility-2026/index.html#interested-in-participating",
+    "title": "Speech Intelligibility in Parkinson’s Disease",
+    "section": "Interested in Participating?",
+    "text": "Interested in Participating?\nClick the button below to complete a brief eligibility screening survey:\nComing Soon"
   },
   {
     "objectID": "posts/2024_12_08_ASHA Convention 2024/2024_12_08_ASHA Convention 2024.html",
