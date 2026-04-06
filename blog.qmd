@@ -1,7 +1,7 @@
 ---
 title: "Blog"
 listing:
-  contents: Posts
+  contents: posts
   sort: "date desc"
   type: grid
   categories: true
@@ -10,6 +10,7 @@ listing:
 page-layout: article
 title-block-banner: false
 ---
+
 \
 
 ::: {collections="Posts"}

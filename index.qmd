@@ -1,6 +1,6 @@
 ---
 listing:
-  contents: Posts
+  contents: posts
   id: sample-posts
   sort: "date desc"
   type: grid
