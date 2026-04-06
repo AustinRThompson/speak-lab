@@ -1,38 +1,67 @@
 ---
 title: "Speech Intelligibility in Parkinson’s Disease"
-subtitle: "A Study for Speech-Language Pathologists"
+subtitle: "A Research Study at the University of Houston"
 ---
 
 ## About the Study
 
-We are studying how speech-language pathologists estimate speech intelligibility in Parkinson’s disease and how these methods can be improved. This research aims to support more reliable and standardized clinical assessment.
+Many people living with Parkinson’s disease notice changes in their speech over time. These changes can make it more difficult for others to understand them in everyday conversations.
+
+Speech-language pathologists work to evaluate and treat these changes, but measuring how understandable someone’s speech is—called *speech intelligibility*—is not always straightforward. Clinicians often rely on quick judgments, and these can vary from one clinician to another.
+
+This study is designed to better understand speech in Parkinson’s disease and to improve how clinicians evaluate speech clarity. To do this, we are collecting speech recordings from individuals with Parkinson’s disease that will help us build better tools for assessment and treatment.
 
 ## What participation involves
 
-Participation takes place entirely online and can be completed from your own device.
+Participation includes a single visit to the University of Houston.
 
-You will:
+During your visit, you will:
 
--   Listen to short speech samples from individuals with Parkinson’s disease
--   Make judgments about how understandable the speech is using different approaches
+-   Provide some background information about your health and communication
+-   Complete brief hearing and cognitive screenings
+-   Participate in speaking tasks, including:
+-   Reading short passages and sentences
+-   Engaging in simple speaking activities (e.g., conversation)
 
-The study takes approximately 20–30 minutes to complete.
+Your speech will be audio recorded during these tasks.
+
+The session will take approximately 60–90 minutes, and you may take breaks at any time.
 
 ## Who can participate
 
 You may be eligible if you:
 
--   Hold a CCC-SLP (ASHA-certified)
--   Have experience working with individuals with dysarthria
--   Are a native English speaker and currently located in the United States
--   Have no hearing difficulties that would interfere with listening
+-   Have been diagnosed with Parkinson’s disease
+-   Speak English
+-   Do not have other neurological conditions (e.g., stroke, traumatic brain injury)
 
 ## Compensation
 
-Participants will receive a \$20 electronic gift card upon completion of the study.
+Participants will receive a \$50 gift card after completing the session.
 
 ## Interested in Participating?
 
-Click the button below to complete a brief eligibility screening survey:
+Click below to complete a brief form so we can determine if this study is a good fit for you:
 
 [Coming Soon](){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Here's a tooltip"}
+
+## Contact
+
+If you have questions or would like to learn more, please contact:
+
+| **Austin Thompson, PhD, CCC-SLP**
+| University of Houston
+| athomp27\@central.uh.edu
+
+## Location
+
+| Melcher Life Sciences
+| 3871 Holman St. Room M245G
+| Houston, TX 77204-6018
+
+\
+
+```{=html}
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d433.10049643154343!2d-95.3489373888708!3d29.725437070333367!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f50.1!3m3!1m2!1s0x8640bf000500dc15%3A0x181db38daa15d0cb!2sMelcher%20Life%20Sciences%20Building!5e0!3m2!1sen!2sus!4v1743785330194!5m2!1sen!2sus" width=100% height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+```
