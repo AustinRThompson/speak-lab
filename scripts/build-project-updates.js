@@ -46,12 +46,23 @@ const updates = files.map((file) => {
 
   const body = parsed.content.trim();
 
+  const rawDate = d.dateCreated ? new Date(d.dateCreated) : null;
+
   return {
-    date: d.dateCreated ?? null,
+    date: rawDate
+      ? rawDate.toISOString().slice(0, 10)
+      : null,
+    date_pretty: rawDate
+      ? rawDate.toLocaleDateString("en-US", {
+          year: "numeric",
+          month: "long",
+          day: "numeric"
+        })
+      : null,
     project: stripWikiLinks(firstProject),
     highlight: d.highlight ?? false,
     type: d.type ?? null,
-    summary: d.note ?? (body ? body.split("\n")[0] : null),
+    summary: d.note ?? (body ? body.split("\n").find(l => l.trim()) : null),
     hours_to_date: d.hours_to_date ?? null,
     tags: cleanTags(d.tags),
     body: body,
