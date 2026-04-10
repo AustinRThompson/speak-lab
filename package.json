@@ -1,0 +1,10 @@
+{
+  "name": "project-log-builder",
+  "private": true,
+  "scripts": {
+    "build-updates": "node scripts/build-project-updates.js"
+  },
+  "dependencies": {
+    "gray-matter": "^4.0.3"
+  }
+}
