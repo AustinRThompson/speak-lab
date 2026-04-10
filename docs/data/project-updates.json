@@ -1,6 +1,7 @@
 [
   {
-    "date": "2026-04-09T00:00:00.000Z",
+    "date": "2026-04-09",
+    "date_pretty": "April 9, 2026",
     "project": "OS Chair Survey",
     "highlight": false,
     "type": null,
