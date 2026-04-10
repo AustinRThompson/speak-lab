@@ -9,3 +9,4 @@ note: Worked on integrating coauthors' feedback on the Qualtrics survey.
 tags:
   - "#research-log"
 ---
+Over the past week, my colleagues gave feedback to Danika and me regarding the Qualtrics survey. Today, I worked to integrate the feedback.
