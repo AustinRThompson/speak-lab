@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2026-04-13",
+    "date_pretty": "April 13, 2026",
+    "project": "ASHFoundation New Investigators Grant",
+    "highlight": false,
+    "type": null,
+    "summary": "I have a completed full draft of my research plan, woo!",
+    "hours_to_date": null,
+    "tags": [
+      "research-log"
+    ],
+    "body": "",
+    "filename": "2026-04-13-full-research-plan-draft.md"
+  },
+  {
+    "date": "2026-04-10",
+    "date_pretty": "April 10, 2026",
+    "project": "ASHFoundation New Investigators Grant",
+    "highlight": false,
+    "type": null,
+    "summary": "Sent off my materials to my consultant for their letter of support.",
+    "hours_to_date": null,
+    "tags": [
+      "research-log"
+    ],
+    "body": "",
+    "filename": "2026-04-10-sent-consultant-materials.md"
+  },
+  {
+    "date": "2026-04-09",
+    "date_pretty": "April 9, 2026",
+    "project": "OS Chair Survey",
+    "highlight": false,
+    "type": null,
+    "summary": "Worked on integrating coauthors' feedback on the Qualtrics survey.",
+    "hours_to_date": null,
+    "tags": [
+      "research-log"
+    ],
+    "body": "Over the past week, my colleagues gave feedback to Danika and me regarding the Qualtrics survey. Today, I worked to integrate the feedback.",
+    "filename": "2026-04-09-qualtrics-prep.md"
+  },
+  {
+    "date": "2026-03-30",
+    "date_pretty": "March 30, 2026",
+    "project": "OS Chair Survey",
+    "highlight": false,
+    "type": null,
+    "summary": "Met with Danika to incorporate the implementation science constructs into the survey questions.",
+    "hours_to_date": null,
+    "tags": [
+      "research-log"
+    ],
+    "body": "",
+    "filename": "2026-03-30-incorporating-implementation-science.md"
+  }
+]
