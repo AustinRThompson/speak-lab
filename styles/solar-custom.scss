@@ -1,0 +1,20 @@
+/*-- scss:defaults --*/
+
+/* Colors */
+$primary: #4397C6;
+$secondary: #F9F9F7;
+$success: #4397C6;
+
+/* Main page background */
+$body-bg: darken($primary, 40%);   
+
+/* Text color */
+$body-color: lighten($secondary, 20%);
+
+/* Optional: tweak hover color */
+$link-hover-color: #B91F2B;
+
+/* Navbar background */
+$navbar-bg: darken($body-bg, 2%);
+
+

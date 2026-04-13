@@ -1,0 +1,43 @@
+/*-- scss:defaults --*/
+
+/* Main page background */
+$body-bg: #F9F9F7;   // ← change this to whatever you want
+
+/* Text color */
+$body-color: #2f2f2f;
+
+/* Change primary color (this controls links, buttons, etc.) */
+$primary: #4397C6;
+
+/* Optional: tweak hover color */
+$link-hover-color: #B91F2B;
+
+/* Navbar background */
+$navbar-bg: darken($body-bg, 2%);   // or your color
+
+/* Navbar text */
+$navbar-light-color: #4397C6;
+$navbar-light-hover-color: #B91F2B;
+
+/* Navbar brand (site title) */
+$navbar-light-brand-color: #4397C6;
+$navbar-light-brand-hover-color: darken($navbar-light-brand-color, 10%);
+
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+$headings-font-family: "Rubik";
+$headings-font-weight: 400;
+/*-- scss:rules --*/
+
+h2, .h2 {
+  font-weight: 500;
+}
+
+h3, .h3 {
+  font-weight: 450;
+}
+
+h2 {
+  border-bottom: 1px solid rgba(0,0,0,0.15);
+  padding-bottom: 0.5rem;
+}

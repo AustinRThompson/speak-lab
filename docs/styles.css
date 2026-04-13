@@ -16,3 +16,117 @@
 .btn-tertiary {
   border-radius: 1.5rem;
 }
+
+<style>
+#project-timeline {
+  margin-top: 1.5rem;
+}
+
+.terminal-timeline {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  border: 1px solid rgba(255, 255, 255, 0.14);
+  border-radius: 10px;
+  overflow: hidden;
+  background: #0d1117;
+  color: #e6edf3;
+  box-shadow: 0 0 0 1px rgba(255, 255, 255, 0.02) inset;
+}
+
+.terminal-header {
+  display: flex;
+  gap: 0.6rem;
+  align-items: center;
+  padding: 0.85rem 1rem;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+  background: #161b22;
+  font-size: 0.92rem;
+  color: #9da7b3;
+}
+
+.terminal-prompt {
+  color: #7ee787;
+  font-weight: 700;
+}
+
+.terminal-body {
+  padding: 1rem 1rem 0.5rem 1rem;
+}
+
+.terminal-item {
+  display: grid;
+  grid-template-columns: 1.75rem 1fr;
+  column-gap: 1rem;
+  align-items: start;
+}
+
+.terminal-marker {
+  position: relative;
+  min-height: 100%;
+}
+
+.terminal-dot {
+  position: absolute;
+  top: 0.25rem;
+  left: 50%;
+  width: 0.72rem;
+  height: 0.72rem;
+  transform: translateX(-50%);
+  border-radius: 50%;
+  background: #7ee787;
+  box-shadow: 0 0 0 3px rgba(126, 231, 135, 0.12);
+  z-index: 2;
+}
+
+.terminal-line {
+  position: absolute;
+  top: 1.15rem;
+  bottom: -1.5rem;
+  left: 50%;
+  width: 2px;
+  transform: translateX(-50%);
+  background: rgba(126, 231, 135, 0.28);
+  z-index: 1;
+}
+
+.terminal-content {
+  padding-bottom: 2rem;
+}
+
+.terminal-date {
+  color: #8b949e;
+  font-size: 0.83rem;
+  margin-bottom: 0.45rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.terminal-summary {
+  color: #e6edf3;
+  font-size: 0.98rem;
+  line-height: 1.6;
+  margin-bottom: 0.7rem;
+  white-space: normal;
+}
+
+.terminal-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+}
+
+.terminal-tag {
+  display: inline-block;
+  padding: 0.18rem 0.55rem;
+  border: 1px solid rgba(126, 231, 135, 0.35);
+  border-radius: 999px;
+  color: #7ee787;
+  background: rgba(126, 231, 135, 0.08);
+  font-size: 0.76rem;
+}
+
+.terminal-empty {
+  padding: 1rem;
+  color: #8b949e;
+  font-size: 0.92rem;
+}
+</style>

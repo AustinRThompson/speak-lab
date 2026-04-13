@@ -25,7 +25,7 @@ title-block-banner: false
 \
 \
 
-#### **The [S]{.underline}peech [Pe]{.underline}rception, [A]{.underline}coustics, and [K]{.underline}inematics (SPEAK) Lab is a research laboratory at the University of Houston led by [Austin Thompson](team.qmd#austin-thompson).**
+#### **The [S]{.underline}peech [Pe]{.underline}rception, [A]{.underline}coustics, and [K]{.underline}inematics (SPEAK) Lab** is a research laboratory at the University of Houston led by [Austin Thompson](team.qmd#austin-thompson).
 
 Our research is committed to advancing the diagnostic and treatment techniques for patients with motor speech disorders, such as dysarthria.
 :::
