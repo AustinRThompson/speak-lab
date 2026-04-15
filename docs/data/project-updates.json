@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-04-15",
+    "date_pretty": "April 15, 2026",
+    "project": "ASHFoundation New Investigators Grant",
+    "highlight": false,
+    "type": null,
+    "summary": "I banged my head against a wall for several hours today while working on my biosketch -- these are my least favorite parts of any grant. I've made some progress, but I'm not done yet. I'll return to it tomorrow.",
+    "hours_to_date": null,
+    "tags": [
+      "research-log"
+    ],
+    "body": "I banged my head against a wall for several hours today while working on my biosketch -- these are my least favorite parts of any grant. I've made some progress, but I'm not done yet. I'll return to it tomorrow. The grant is due in 7 days. Eeek!",
+    "filename": "2026-04-15-biosketch.md"
+  },
+  {
+    "date": "2026-04-14",
+    "date_pretty": "April 14, 2026",
+    "project": "ASHFoundation New Investigators Grant",
+    "highlight": false,
+    "type": null,
+    "summary": "Today, I completed drafts of the Human Subjects (IRB) document and the key personnel document. I also started working on my biosketch.",
+    "hours_to_date": null,
+    "tags": [
+      "research-log"
+    ],
+    "body": "",
+    "filename": "2026-04-14-human-subjects-personnel-biosketch.md"
+  },
+  {
     "date": "2026-04-13",
     "date_pretty": "April 13, 2026",
     "project": "ASHFoundation New Investigators Grant",
