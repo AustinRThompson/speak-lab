@@ -5,7 +5,7 @@ projects:
 highlight: false
 type:
 note: Today, I completed drafts of the Human Subjects (IRB) document and the key personnel document. I also started working on my biosketch.
-"hours_to_date:":
+"hours_to_date:": "82"
 tags:
   - "#research-log"
 ---

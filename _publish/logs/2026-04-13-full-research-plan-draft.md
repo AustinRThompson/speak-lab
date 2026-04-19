@@ -5,7 +5,7 @@ projects:
 highlight: false
 type:
 note: I have a completed full draft of my research plan, woo!
-"hours_to_date:":
+"hours_to_date:": "78"
 tags:
   - "#research-log"
 ---
