@@ -1,5 +1,47 @@
 [
   {
+    "date": "2026-04-17",
+    "date_pretty": "April 17, 2026",
+    "project": "ASHFoundation New Investigators Grant",
+    "highlight": false,
+    "type": null,
+    "summary": "I received feedback from my mentor on the proposal. The biggest concerns were related to the specific aims and the methods issue. I've spent all day working on integrating her feedback. I think the proposal is getting stronger! Also, this update marks 100 hours of working on this proposal!",
+    "hours_to_date": null,
+    "tags": [
+      "research-log"
+    ],
+    "body": "",
+    "filename": "2026-04-17-back-to-specific-aims.md"
+  },
+  {
+    "date": "2026-04-17",
+    "date_pretty": "April 17, 2026",
+    "project": "ASHFoundation New Investigators Grant",
+    "highlight": false,
+    "type": null,
+    "summary": "I spent yesterday and a little of today overhauling my specific aims based on my mentor's feedback. I sent it to her for a second round of feedback, and she already got back to me saying she likes it much more! 3 days left!",
+    "hours_to_date": null,
+    "tags": [
+      "research-log"
+    ],
+    "body": "",
+    "filename": "2026-04-19-worked-on-specific-aims.md"
+  },
+  {
+    "date": "2026-04-16",
+    "date_pretty": "April 16, 2026",
+    "project": "ASHFoundation New Investigators Grant",
+    "highlight": false,
+    "type": null,
+    "summary": "I finished up my biosketch today (woo!), and then got started on my abstract. Only a few more documents left to go!",
+    "hours_to_date": null,
+    "tags": [
+      "research-log"
+    ],
+    "body": "",
+    "filename": "2026-04-16-biosketch-abstract.md"
+  },
+  {
     "date": "2026-04-15",
     "date_pretty": "April 15, 2026",
     "project": "ASHFoundation New Investigators Grant",
@@ -12,20 +54,6 @@
     ],
     "body": "",
     "filename": "2026-04-15-biosketch.md"
-  },
-  {
-    "date": "2026-04-15",
-    "date_pretty": "April 15, 2026",
-    "project": "ASHFoundation New Investigators Grant",
-    "highlight": false,
-    "type": null,
-    "summary": "I finished up my biosketch today (woo!), and then got started on my abstract. Only a few more documents left to go!",
-    "hours_to_date": null,
-    "tags": [
-      "research-log"
-    ],
-    "body": "",
-    "filename": "2026-04-16-biosketch-abstract.md"
   },
   {
     "date": "2026-04-14",
