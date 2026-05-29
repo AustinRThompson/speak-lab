@@ -41,9 +41,13 @@ Participants will receive a \$50 gift card after completing the session.
 
 ## Interested in Participating?
 
-Click below to complete a brief form so we can determine if this study is a good fit for you:
+Recruitment for this study will begin in Fall 2026. Sign up using the following form to be notified when the study begins recruitment.
 
-[Coming Soon](){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Here's a tooltip"}
+[Contact Form](https://universityofhouston.iad1.qualtrics.com/jfe/form/SV_0IXiYC0C81mvIzQ){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Here's a tooltip"}
+
+<!-- Click below to complete a brief form so we can determine if this study is a good fit for you: -->
+
+<!-- [Coming Soon](){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Here's a tooltip"} -->
 
 ## Contact
 
