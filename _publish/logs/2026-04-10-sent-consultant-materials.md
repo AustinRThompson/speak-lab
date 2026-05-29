@@ -5,7 +5,7 @@ projects:
 highlight: false
 type:
 note: Sent off my materials to my consultant for their letter of support.
-"hours_to_date:":
+"hours_to_date:": "73"
 tags:
   - "#research-log"
 ---
